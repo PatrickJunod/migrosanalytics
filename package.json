@@ -1,0 +1,19 @@
+{
+  "name": "migros-analytics-app",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.5.22",
+    "chart.js": "^4.5.1",
+    "papaparse": "^5.5.3"
+  },
+  "devDependencies": {
+    "vite": "^7.1.12",
+    "@vitejs/plugin-vue": "^5.2.2"
+  }
+}
