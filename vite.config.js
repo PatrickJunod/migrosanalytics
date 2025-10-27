@@ -6,7 +6,7 @@ export default defineConfig({
   server: {
     port: 3000
   },
-  base: '/migros-analytics/', // Replace with your repository name
+  base: '/migrosanalytics/', // Replace with your repository name
   build: {
     outDir: 'dist',
     assetsDir: 'assets'
