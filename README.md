@@ -1,6 +1,8 @@
 # Migros Analytics Dashboard
 
-Application Vue.js pour analyser vos données d'achat Migros avec un design professionnel noir et orange.
+Application Vue.js pour analyser vos données d'achat Migros.
+
+Version en ligne: [GitHub Pages](https://patrickjunod.github.io/migrosanalytics/)
 
 ## 🚀 Démarrage rapide
 
@@ -32,10 +34,6 @@ Les fichiers de production seront générés dans le dossier `dist/`
 - **Drag & Drop** de fichiers CSV
 - **Graphiques animés** avec Chart.js
 - **Recherche et filtres** avancés
-- **Design professionnel** noir et orange monochrome
-- **Placeholders** avant chargement des données
-- **Animations de chargement** pour une meilleure UX
-- **Responsive** pour tous les écrans
 
 ## 📊 Onglets disponibles
 
@@ -52,6 +50,8 @@ Les fichiers CSV Migros doivent avoir le format suivant :
 Datum;Zeit;Filiale;Kassennummer;Transaktionsnummer;Artikel;Menge;Aktion;Umsatz
 21.10.2025;14:59:08;MM Cernier;256;50;MBud pain toast clair;1;0.00;1.35
 ```
+
+Ils peuvent être téléchargés depuis votre compte Migros sur migros.ch
 
 ## 🛠️ Technologies utilisées
 
