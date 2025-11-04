@@ -1,0 +1,39 @@
+{
+  "name": "Migros Analytics",
+  "short_name": "MAnalytics",
+  "description": "Analyze your Migros shopping data privately in your browser",
+  "start_url": "/migrosanalytics/",
+  "scope": "/migrosanalytics/",
+  "icons": [
+    {
+      "src": "/migrosanalytics/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/migrosanalytics/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/migrosanalytics/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/migrosanalytics/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#ff6b35",
+  "background_color": "#1a1a1a",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "categories": ["shopping", "finance", "utilities"],
+  "lang": "en"
+}

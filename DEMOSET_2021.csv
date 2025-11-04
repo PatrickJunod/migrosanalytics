@@ -1,0 +1,1854 @@
+Datum;Zeit;Filiale;Kassennummer;Transaktionsnummer;Artikel;Menge;Aktion;Umsatz
+31.12.2021;11:31:23;M Les Cadolles;253;31;Milette junior 5;1;0.00;7.70
+31.12.2021;11:31:23;M Les Cadolles;253;31;Max os à mâcher 2pce;3;0.00;11.40
+31.12.2021;11:31:23;M Les Cadolles;253;31;Red Bull blue edition;2;0.00;3.40
+31.12.2021;11:31:23;M Les Cadolles;253;31;Red Bull tropical edit;2;0.00;3.40
+31.12.2021;11:31:23;M Les Cadolles;253;31;MClass rav. Nap. 1.2kg;1;0.00;3.85
+31.12.2021;11:31:23;M Les Cadolles;253;31;MClass rav. Nap. 870g;1;0.00;2.95
+31.12.2021;11:31:23;M Les Cadolles;253;31;Epinards crème 800g;2;0.00;6.40
+31.12.2021;11:31:23;M Les Cadolles;253;31;MBud espresso grains;1;0.00;4.50
+31.12.2021;11:31:23;M Les Cadolles;253;31;MClass aliment lapins;1;0.00;3.35
+29.12.2021;16:05:34;M Les Cadolles;001;402;Sarasay pêche 75cl;1;0.00;1.85
+29.12.2021;16:05:34;M Les Cadolles;001;402;Alnatura Chips mais;1;0.00;1.90
+29.12.2021;16:05:34;M Les Cadolles;001;402;Red Bull blue edition;1;0.00;1.70
+29.12.2021;16:05:34;M Les Cadolles;001;402;Crème sandwich;1;0.00;3.10
+29.12.2021;16:05:34;M Les Cadolles;001;402;MSC pâté au thon 200g;1;0.00;4.20
+29.12.2021;16:05:34;M Les Cadolles;001;402;MBud saumon fumé atl.;1;0.00;4.95
+29.12.2021;16:05:34;M Les Cadolles;001;402;MBud Jambon;1;0.00;3.65
+29.12.2021;16:05:34;M Les Cadolles;001;402;Grana Padano;0.249;-0.87;4.60
+29.12.2021;16:05:34;M Les Cadolles;001;402;MBud Gouda Holland;0.411;0.00;2.65
+29.12.2021;16:05:34;M Les Cadolles;001;402;Emmental surchoix;0.254;0.00;4.95
+29.12.2021;16:05:34;M Les Cadolles;001;402;Le Gruyère doux;0.229;-0.80;3.20
+29.12.2021;16:05:34;M Les Cadolles;001;402;Saucisse séchée;1;0.00;7.90
+29.12.2021;16:05:34;M Les Cadolles;001;402;Cherrytomates grappes;1;-0.45;1.75
+29.12.2021;16:05:34;M Les Cadolles;001;402;Concombre;1;0.00;0.95
+29.12.2021;16:05:34;M Les Cadolles;001;402;MClass galettes riz;1;0.00;0.80
+29.12.2021;16:05:34;M Les Cadolles;001;402;Red Bull blue edition;1;0.00;1.70
+29.12.2021;16:05:34;M Les Cadolles;001;402;Canapés rond saumon;1;0.00;2.50
+29.12.2021;16:05:34;M Les Cadolles;001;402;Menthe;1;0.00;2.00
+29.12.2021;16:05:34;M Les Cadolles;001;402;Cabas;1;0.00;0.30
+29.12.2021;16:05:34;M Les Cadolles;001;402;MClass Séré demi-gras;1;0.00;1.45
+29.12.2021;16:05:34;M Les Cadolles;001;402;Menthe;1;0.00;2.00
+23.12.2021;10:57:51;M Les Cadolles;002;11;Cabas reutilisable;1;0.00;2.00
+23.12.2021;10:57:51;M Les Cadolles;002;11;Batavia verte;1;0.00;1.80
+23.12.2021;10:57:51;M Les Cadolles;002;11;Canapés Nature;1;0.00;2.80
+23.12.2021;10:57:51;M Les Cadolles;002;11;Canapés rond figues;1;0.00;2.50
+23.12.2021;10:57:51;M Les Cadolles;002;11;Filet de canard;0.317;0.00;11.10
+23.12.2021;10:57:51;M Les Cadolles;002;11;Clementines;1;0.00;3.95
+23.12.2021;10:57:51;M Les Cadolles;002;11;MBud Baguette     300g;1;0.00;0.70
+23.12.2021;10:57:51;M Les Cadolles;002;11;Sélec fleur de sel 80g;1;0.00;6.90
+23.12.2021;10:57:51;M Les Cadolles;002;11;Salade Iceberg;1;0.00;1.20
+23.12.2021;10:57:51;M Les Cadolles;002;11;MBud saumon fumé atl.;1;0.00;4.95
+23.12.2021;10:57:51;M Les Cadolles;002;11;MClass ASC Crevettes;4;0.00;14.00
+23.12.2021;10:57:51;M Les Cadolles;002;11;Extra Avocat;1;-0.60;2.35
+23.12.2021;10:57:51;M Les Cadolles;002;11;Foie gras Muscat;1;-2.70;10.80
+23.12.2021;10:57:51;M Les Cadolles;002;11;Extra Avocat;1;-0.60;2.35
+23.12.2021;10:57:51;M Les Cadolles;002;11;Red Bull blue edition;1;0.00;1.70
+23.12.2021;10:57:51;M Les Cadolles;002;11;MClass Séré demi-gras;1;0.00;1.45
+23.12.2021;10:57:51;M Les Cadolles;002;11;Foie gras;1;-5.20;20.80
+23.12.2021;10:57:51;M Les Cadolles;002;11;Feuille chêne rouge;1;0.00;1.75
+23.12.2021;10:57:51;M Les Cadolles;002;11;Brocoli;0.333;0.00;0.95
+22.12.2021;18:27:19;MMM Marin Centre;437;233;Red Bull the white edi;1;0.00;1.70
+22.12.2021;18:27:19;MMM Marin Centre;437;233;Red Bull blue edition;1;0.00;1.70
+22.12.2021;18:27:19;MMM Marin Centre;437;233;Sauce soja 1l;1;0.00;9.30
+22.12.2021;18:27:19;MMM Marin Centre;437;233;Max os à mâcher 2pce;2;0.00;7.60
+22.12.2021;18:27:19;MMM Marin Centre;437;233;Hakle prop.naturelle30;1;0.00;16.95
+22.12.2021;18:27:19;MMM Marin Centre;437;233;MBud Détartrant 1.5l;1;0.00;4.95
+22.12.2021;18:27:19;MMM Marin Centre;437;233;Bio graines de lin;1;0.00;2.95
+22.12.2021;18:27:19;MMM Marin Centre;437;233;MBud Classic Tabs;1;0.00;6.00
+22.12.2021;18:27:19;MMM Marin Centre;437;233;Milette large 6;1;0.00;7.20
+22.12.2021;18:27:19;MMM Marin Centre;437;233;Coupon Bonus 5x;1;0;0
+22.12.2021;18:27:19;MMM Marin Centre;437;233;CUM10x Pts Couches Milette;1;0;0
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Bananes;1.043;0.00;2.40
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Mangue;1;0.00;1.75
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Courges Butternut;1.271;0.00;4.45
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Batavia verte;1;0.00;2.10
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Feuille chêne rouge;1;0.00;1.75
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Concombre;1;0.00;0.95
+03.12.2021;18:11:13;MMM Marin Centre;439;105;MBud Endives;1;0.00;3.60
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Carottes;1;0.00;2.10
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Aubergines;0.346;0.00;0.90
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Fenouil;0.569;0.00;1.65
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Chou-fleur Romanesco;0.679;0.00;2.85
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Valflora M-Drink;1;0.00;8.10
+03.12.2021;18:11:13;MMM Marin Centre;439;105;MClass Yogourt fruits;1;0.00;2.20
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Surchoix de Chèvre;0.172;0.00;5.60
+03.12.2021;18:11:13;MMM Marin Centre;439;105;ASC crevet. crues dec.;0.592;0.00;29.00
+03.12.2021;18:11:13;MMM Marin Centre;439;105;MSC Noix St-Jacques;0.608;0.00;52.90
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Filet de thon albacore;0.760;0.00;49.00
+03.12.2021;18:11:13;MMM Marin Centre;439;105;ASC suprême saumon;0.816;0.00;48.15
+03.12.2021;18:11:13;MMM Marin Centre;439;105;MSC Supreme cabillaud;0.508;2.56;14.20
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Ciboulette;1;0.00;0.95
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Pâte st.nicolas;1;9.95;9.95
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Salsa dip medium;1;0.00;1.65
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Tortilla chips fajita;2;0.00;7.60
+03.12.2021;18:11:13;MMM Marin Centre;439;105;MBud Tranche de poulet;0.712;0.00;9.75
+03.12.2021;18:11:13;MMM Marin Centre;439;105;MClass Rumpsteak;0.321;0.00;15.90
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Escalope chevr;0.178;0.00;7.90
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Escalope chevr;0.222;0.00;9.90
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Steak autruche;0.147;0.00;6.30
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Steak autruche;0.164;0.00;7.05
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Escalope chevr;0.196;0.00;8.70
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Escalope de porc;0.253;0.00;7.45
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Escalope de porc;0.212;0.00;5.30
+03.12.2021;18:11:13;MMM Marin Centre;439;105;MClass Rumpsteak;0.354;0.00;17.50
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Rumpsteak cheval;0.131;0.00;5.55
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Escalope de porc;0.254;0.00;7.50
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Rumpsteak cheval;0.164;0.00;6.95
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Rumpsteak cheval;0.153;0.00;6.50
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Steak autruche;0.136;0.00;5.85
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Rumpsteak cheval;0.178;0.00;7.55
+03.12.2021;18:11:13;MMM Marin Centre;439;105;MBud  Pommes Frites;1;0.00;7.80
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Sirop fraise 75cl;1;0.00;3.45
+03.12.2021;18:11:13;MMM Marin Centre;439;105;MClass hui col.HOLL;1;0.00;13.15
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Heinz ketchup 800ml;1;0.00;4.25
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Red Bull blue edition;1;0.00;1.70
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Red Bull the white edi;2;0.00;3.40
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Red Bull red edition;1;0.00;1.70
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Mayonnaise française;2;0.00;5.60
+03.12.2021;18:11:13;MMM Marin Centre;439;105;MBud Sere a la creme;6;0.00;8.40
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Bon Chef bouil. légume;1;0.00;9.95
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Mu Err séchées;2;0.00;3.20
+03.12.2021;18:11:13;MMM Marin Centre;439;105;SIMPLISSIME EDITION;1;0.00;33.90
+03.12.2021;18:11:13;MMM Marin Centre;439;105;NUIT DE NOEL -LA-;1;0.00;15.90
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Energizer Max AA 15+5;1;0.00;19.95
+03.12.2021;18:11:13;MMM Marin Centre;439;105;Coupon Bonus 2x;1;0;0
+27.11.2021;15:48:21;M Portes-Rouges;255;65;Tripple Chocolate Teig;1;0.00;3.90
+27.11.2021;15:48:21;M Portes-Rouges;255;65;Ice Tea citron 50cl;1;0.00;0.90
+27.11.2021;15:48:21;M Portes-Rouges;255;65;Carottes;1;0.00;1.90
+27.11.2021;15:48:21;M Portes-Rouges;255;65;Celeri-pomme;0.732;0.00;2.05
+27.11.2021;15:48:21;M Portes-Rouges;255;65;Ananas;1;0.55;2.00
+27.11.2021;15:48:21;M Portes-Rouges;255;65;Bio Pousses Mungo;1;0.00;2.20
+27.11.2021;15:48:21;M Portes-Rouges;255;65;Patates douces;0.703;0.00;4.85
+27.11.2021;15:48:21;M Portes-Rouges;255;65;Ail;1;0.00;0.70
+27.11.2021;15:48:21;M Portes-Rouges;255;65;Oignons;0.275;0.00;0.55
+27.11.2021;15:48:21;M Portes-Rouges;255;65;Feuille chêne rouge;1;0.00;1.75
+27.11.2021;15:48:21;M Portes-Rouges;255;65;Laitue pommée;1;0.00;1.60
+27.11.2021;15:48:21;M Portes-Rouges;255;65;MClass Yogourt fruits;1;0.00;2.20
+27.11.2021;15:48:21;M Portes-Rouges;255;65;Valflora demi-crème;1;0.00;1.30
+27.11.2021;15:48:21;M Portes-Rouges;255;65;Oeufs plein air 6x53g+;1;0.00;2.95
+27.11.2021;15:48:21;M Portes-Rouges;255;65;Val d'Arve Reblochon;1;0.00;2.95
+27.11.2021;15:48:21;M Portes-Rouges;255;65;MBud Lardons fumés;1;0.00;2.50
+27.11.2021;15:48:21;M Portes-Rouges;255;65;Garofalo orecchiette;1;0.00;2.70
+27.11.2021;15:48:21;M Portes-Rouges;255;65;Bio berry mix;1;0.00;4.50
+27.11.2021;15:48:21;M Portes-Rouges;255;65;Sun Queen noix pécan;1;0.00;3.35
+27.11.2021;15:48:21;M Portes-Rouges;255;65;MClass lentilles;1;0.00;2.20
+27.11.2021;15:48:21;M Portes-Rouges;255;65;Milaneza bagos;2;0.00;1.90
+27.11.2021;15:48:21;M Portes-Rouges;255;65;Saitaku sushi riz;1;0.00;3.40
+27.11.2021;15:48:21;M Portes-Rouges;255;65;Tomates morceaux 400g;1;0.00;1.00
+27.11.2021;15:48:21;M Portes-Rouges;255;65;MClass concentré tomat;1;0.00;0.75
+27.11.2021;15:48:21;M Portes-Rouges;255;65;Alnatura huile sésame;1;0.00;5.20
+27.11.2021;15:48:21;M Portes-Rouges;255;65;Poulet epice en sachet;1.181;5.73;6.55
+27.11.2021;15:48:21;M Portes-Rouges;255;65;Saumon fume familial;1;0.00;9.90
+27.11.2021;15:48:21;M Portes-Rouges;255;65;Poivre au citron;1;0.00;1.60
+27.11.2021;15:48:21;M Portes-Rouges;255;65;Xenia Feta 200g;1;0.00;3.65
+27.11.2021;15:48:21;M Portes-Rouges;255;65;Feuille chêne verte;1;0.00;1.75
+27.11.2021;15:48:21;M Portes-Rouges;255;65;MClass Toast&Sandwich;1;0.00;2.30
+27.11.2021;15:48:21;M Portes-Rouges;255;65;Bull's eye original;1;0.00;4.20
+27.11.2021;15:48:21;M Portes-Rouges;255;65;MClass sésame décorti.;1;0.00;1.75
+27.11.2021;15:48:21;M Portes-Rouges;255;65;Max os à mâcher 2pce;3;0.00;11.40
+27.11.2021;15:48:21;M Portes-Rouges;255;65;Milette large 6;1;0.00;7.20
+24.11.2021;17:02:06;MM Hôpital;004;316;Elmex Sensitive dent.;3;0.00;11.70
+24.11.2021;17:02:06;MM Hôpital;004;316;Energizer Max AA 12 St;1;0.00;17.90
+24.11.2021;17:02:06;MM Hôpital;004;316;Valflora M-Drink;1;0.00;8.10
+24.11.2021;17:02:06;MM Hôpital;004;316;Sac poubelle taxé 35L;1;0.00;20.00
+24.11.2021;17:02:06;MM Hôpital;004;316;Coupon Bonus 2x;1;0;0
+20.11.2021;11:49:35;MMM Marin Centre;440;79;MClass Pâte à gâteau;2;0.00;2.60
+20.11.2021;11:49:35;MMM Marin Centre;440;79;Petit pain tessinois;1;0.00;1.20
+20.11.2021;11:49:35;MMM Marin Centre;440;79;Pâte à enrober;1;0.00;4.20
+20.11.2021;11:49:35;MMM Marin Centre;440;79;Poires Bosc;0.846;0.59;2.20
+20.11.2021;11:49:35;MMM Marin Centre;440;79;Pommes raisin;0.616;0.00;3.05
+20.11.2021;11:49:35;MMM Marin Centre;440;79;Citrons non traités;1;0.00;0.45
+20.11.2021;11:49:35;MMM Marin Centre;440;79;Oignons rouges;1;0.00;1.00
+20.11.2021;11:49:35;MMM Marin Centre;440;79;Champignons blancs;1;0.00;2.20
+20.11.2021;11:49:35;MMM Marin Centre;440;79;Poireaux verts;0.430;0.00;1.85
+20.11.2021;11:49:35;MMM Marin Centre;440;79;MBud Endives;1;0.00;3.60
+20.11.2021;11:49:35;MMM Marin Centre;440;79;Concombre;1;0.00;1.00
+20.11.2021;11:49:35;MMM Marin Centre;440;79;Feuille chêne verte;1;0.00;1.75
+20.11.2021;11:49:35;MMM Marin Centre;440;79;Duo de salade;1;0.00;3.50
+20.11.2021;11:49:35;MMM Marin Centre;440;79;MClass Yogourt fruits;1;0.00;2.20
+20.11.2021;11:49:35;MMM Marin Centre;440;79;Oeufs plein air 6x53g+;1;0.00;2.95
+20.11.2021;11:49:35;MMM Marin Centre;440;79;MBud Beurre;2;0.00;5.60
+20.11.2021;11:49:35;MMM Marin Centre;440;79;MClass Fromage salade;1;0.00;2.00
+20.11.2021;11:49:35;MMM Marin Centre;440;79;Gruyere salé;0.242;0.00;4.60
+20.11.2021;11:49:35;MMM Marin Centre;440;79;Escalope de poulet;0.423;0.00;13.95
+20.11.2021;11:49:35;MMM Marin Centre;440;79;MBud Lardons fumés;1;0.00;2.50
+20.11.2021;11:49:35;MMM Marin Centre;440;79;Agnesi penne rigate 2x;1;1.70;2.50
+20.11.2021;11:49:35;MMM Marin Centre;440;79;Agnesi spaghetti 3x;1;2.70;3.60
+20.11.2021;11:49:35;MMM Marin Centre;440;79;MBud olives vertes;1;0.00;0.60
+20.11.2021;11:49:35;MMM Marin Centre;440;79;MClass couscous 1kg;1;0.00;3.60
+20.11.2021;11:49:35;MMM Marin Centre;440;79;Bio aha! MH quinoa tri;1;0.00;4.95
+20.11.2021;11:49:35;MMM Marin Centre;440;79;Agnesi arrabbiata;1;0.00;2.80
+20.11.2021;11:49:35;MMM Marin Centre;440;79;Agnesi basilico;1;0.00;2.80
+20.11.2021;11:49:35;MMM Marin Centre;440;79;Passata di pomodoro;1;0.00;2.10
+20.11.2021;11:49:35;MMM Marin Centre;440;79;Sucre morceaux;1;0.00;1.50
+20.11.2021;11:49:35;MMM Marin Centre;440;79;MBud farine ménagère;1;0.00;0.90
+20.11.2021;11:49:35;MMM Marin Centre;440;79;Max os à mâcher 2pce;4;0.00;15.20
+20.11.2021;11:49:35;MMM Marin Centre;440;79;MClass aliment lapins;1;0.00;3.35
+20.11.2021;11:49:35;MMM Marin Centre;440;79;MClass copeaux de bois;1;0.00;3.60
+20.11.2021;11:49:35;MMM Marin Centre;440;79;MBud épinards crème;1;0.00;1.65
+20.11.2021;11:49:35;MMM Marin Centre;440;79;Petits pois et carotte;1;0.00;2.35
+20.11.2021;11:49:35;MMM Marin Centre;440;79;Petit Beurre;1;0.00;1.45
+20.11.2021;11:49:35;MMM Marin Centre;440;79;Bio aha! galettes riz;1;0.00;0.95
+20.11.2021;11:49:35;MMM Marin Centre;440;79;Aproz thé blanc pêche;1;0.00;1.15
+20.11.2021;11:49:35;MMM Marin Centre;440;79;MClass panure blonde;1;0.00;1.25
+20.11.2021;11:49:35;MMM Marin Centre;440;79;Manella Citron Trio;1;0.00;7.40
+20.11.2021;11:49:35;MMM Marin Centre;440;79;Milette large 6;1;0.00;7.20
+20.11.2021;11:49:35;MMM Marin Centre;440;79;Milette protege;1;0.00;2.95
+20.11.2021;11:49:35;MMM Marin Centre;440;79;CUM +3xPts.Tout Ass.;1;0;0
+19.11.2021;12:09:29;MM Hôpital;002;88;Valflora M-Drink;1;0.00;8.10
+19.11.2021;12:09:29;MM Hôpital;002;88;Poireaux verts;0.256;0.00;1.10
+19.11.2021;12:09:29;MM Hôpital;002;88;Condy MH epis de maïs;1;0.00;2.60
+19.11.2021;12:09:29;MM Hôpital;002;88;Condy cornichons extra;1;0.00;3.00
+19.11.2021;12:09:29;MM Hôpital;002;88;Condy champignons herb;1;0.00;2.90
+19.11.2021;12:09:29;MM Hôpital;002;88;Condy chanterelles;1;0.00;4.50
+19.11.2021;12:09:29;MM Hôpital;002;88;Heinz ketchup 800ml;1;0.00;4.25
+19.11.2021;12:09:29;MM Hôpital;002;88;Cumin grainées 33g;1;0.00;2.55
+19.11.2021;12:09:29;MM Hôpital;002;88;Quatre poivres;1;0.00;3.40
+19.11.2021;12:09:29;MM Hôpital;002;88;Condy petits oignons;1;0.00;2.00
+19.11.2021;12:09:29;MM Hôpital;002;88;Bio Pdt.raclette;3;0.00;7.80
+19.11.2021;12:09:29;MM Hôpital;002;88;Raccard Nature Maxi;0.360;0.00;8.10
+19.11.2021;12:09:29;MM Hôpital;002;88;MBud Jambon;2;0.00;7.30
+13.11.2021;15:20:00;M Portes-Rouges;256;110;Cabas;1;0.00;0.30
+13.11.2021;15:20:00;M Portes-Rouges;256;110;MClass jus raisin roug;1;0.00;1.75
+13.11.2021;15:20:00;M Portes-Rouges;256;110;MClass MH jus ananas;1;0.00;1.95
+13.11.2021;15:20:00;M Portes-Rouges;256;110;I am Shower coco&vanil;1;0.00;2.30
+13.11.2021;15:20:00;M Portes-Rouges;256;110;Sirop fraise 75cl;1;0.00;3.45
+13.11.2021;15:20:00;M Portes-Rouges;256;110;Tarte flambée;1;0.00;3.20
+13.11.2021;15:20:00;M Portes-Rouges;256;110;Lattesso Espresso;1;0.00;2.35
+13.11.2021;15:20:00;M Portes-Rouges;256;110;Boule de Berlin choco;1;0.00;1.60
+13.11.2021;15:20:00;M Portes-Rouges;256;110;Bonhomme en pâte sucre;1;0.00;1.90
+13.11.2021;15:20:00;M Portes-Rouges;256;110;Red Bull 250ml;1;0.00;1.50
+12.11.2021;17:48:31;M Portes-Rouges;255;48;Cabas reutilisable;1;0.00;2.00
+12.11.2021;17:48:31;M Portes-Rouges;255;48;M-Budget Bananes;1.179;0.00;1.65
+12.11.2021;17:48:31;M Portes-Rouges;255;48;Laitue pommée;1;0.00;1.60
+12.11.2021;17:48:31;M Portes-Rouges;255;48;Feuille chêne verte;1;0.00;1.80
+12.11.2021;17:48:31;M Portes-Rouges;255;48;Carottes;1;0.00;1.90
+12.11.2021;17:48:31;M Portes-Rouges;255;48;Fenouil;0.795;0.00;3.10
+12.11.2021;17:48:31;M Portes-Rouges;255;48;MBud Beurre;3;0.00;8.40
+12.11.2021;17:48:31;M Portes-Rouges;255;48;Maxi fromage râpé;3;0.00;10.65
+12.11.2021;17:48:31;M Portes-Rouges;255;48;Valflora M-Drink;1;0.00;8.10
+12.11.2021;17:48:31;M Portes-Rouges;255;48;Cornatur Charcuterie;1;0.00;2.85
+12.11.2021;17:48:31;M Portes-Rouges;255;48;Hakle prop.classique30;1;11.35;16.95
+12.11.2021;17:48:31;M Portes-Rouges;255;48;Twist Magic 12er;1;0.00;8.90
+12.11.2021;17:48:31;M Portes-Rouges;255;48;Nivea Men Deo Pr&Ca DU;1;1.25;3.75
+12.11.2021;17:48:31;M Portes-Rouges;255;48;Coupon Bonus 2x;1;0;0
+12.11.2021;17:48:31;M Portes-Rouges;255;48;CUM10x Pts Choux-fleurs;1;0;0
+11.11.2021;17:28:21;M Portes-Rouges;256;129;Cabas reutilisable;1;0.00;2.00
+11.11.2021;17:28:21;M Portes-Rouges;256;129;Milette large 6;1;0.00;7.20
+11.11.2021;17:28:21;M Portes-Rouges;256;129;M-Class morilles séch.;1;0.00;10.50
+11.11.2021;17:28:21;M Portes-Rouges;256;129;Gran Pandorino 80g;2;0.00;4.60
+11.11.2021;17:28:21;M Portes-Rouges;256;129;Valflora M-Drink UHT;2;0.00;2.70
+11.11.2021;17:28:21;M Portes-Rouges;256;129;Entrecôte cheval;0.210;0.00;10.40
+11.11.2021;17:28:21;M Portes-Rouges;256;129;Valflora demi-crème;1;0.00;1.30
+11.11.2021;17:28:21;M Portes-Rouges;256;129;Entrecôte cheval;0.204;0.00;10.10
+11.11.2021;17:28:21;M Portes-Rouges;256;129;Café de Paris Beurre;1;0.00;2.85
+11.11.2021;17:28:21;M Portes-Rouges;256;129;MBud Gnocchi;1;0.00;2.10
+05.11.2021;11:36:51;M Portes-Rouges;254;17;Cabas reutilisable;1;0.00;2.00
+05.11.2021;11:36:51;M Portes-Rouges;254;17;Hot Panini Ham Cheese;1;1.38;5.52
+05.11.2021;11:36:51;M Portes-Rouges;254;17;Red Bull winter edit.;1;0.00;1.70
+05.11.2021;11:36:51;M Portes-Rouges;254;17;Feuille chêne verte;1;0.00;1.65
+05.11.2021;11:36:51;M Portes-Rouges;254;17;Feuille chêne rouge;1;0.00;1.65
+05.11.2021;11:36:51;M Portes-Rouges;254;17;MClass Yogourt Nature;2;0.00;0.90
+05.11.2021;11:36:51;M Portes-Rouges;254;17;MClass Yogourt Fraise;2;0.00;1.10
+05.11.2021;11:36:51;M Portes-Rouges;254;17;MClass Séré demi-gras;1;0.00;1.45
+05.11.2021;11:36:51;M Portes-Rouges;254;17;Le Marechal;0.275;1.24;4.95
+05.11.2021;11:36:51;M Portes-Rouges;254;17;MClass riz jasmin 1kg;1;0.00;2.30
+05.11.2021;11:36:51;M Portes-Rouges;254;17;MBud espresso grains;2;0.00;9.00
+05.11.2021;11:36:51;M Portes-Rouges;254;17;Steak cheval;0.142;0.00;4.25
+05.11.2021;11:36:51;M Portes-Rouges;254;17;Escalope de porc;0.220;0.00;5.50
+05.11.2021;11:36:51;M Portes-Rouges;254;17;Escalope dinde;0.438;0.00;7.00
+05.11.2021;11:36:51;M Portes-Rouges;254;17;MBud Tranche de poulet;0.595;0.00;8.15
+05.11.2021;11:36:51;M Portes-Rouges;254;17;MBud MSC bat. surimi;1;0.00;2.15
+05.11.2021;11:36:51;M Portes-Rouges;254;17;Ovomaltine 400g;1;0.00;6.90
+05.11.2021;11:36:51;M Portes-Rouges;254;17;Max os à mâcher 2pce;5;5.70;13.30
+05.11.2021;11:36:51;M Portes-Rouges;254;17;CUMULUS BON 5.-;0;0;-5.00
+05.11.2021;11:36:51;M Portes-Rouges;254;17;CUM +3xPts.Tout Ass.;1;0;0
+05.11.2021;11:36:51;M Portes-Rouges;254;17;CUM10x Pts Max;1;0;0
+30.10.2021;17:34:55;M Portes-Rouges;255;66;Courges Butternut;1.786;1.25;5.00
+30.10.2021;17:34:55;M Portes-Rouges;255;66;Poire Bosc;0.903;0.00;2.80
+30.10.2021;17:34:55;M Portes-Rouges;255;66;Pommes Boskoop;1.076;0.00;4.25
+30.10.2021;17:34:55;M Portes-Rouges;255;66;Gingembre;0.594;0.00;3.15
+30.10.2021;17:34:55;M Portes-Rouges;255;66;Concombre;2;0.00;2.20
+30.10.2021;17:34:55;M Portes-Rouges;255;66;Feuille chêne rouge;1;0.00;1.75
+30.10.2021;17:34:55;M Portes-Rouges;255;66;Batavia verte;1;0.00;1.75
+30.10.2021;17:34:55;M Portes-Rouges;255;66;Brocoli;0.896;0.00;4.30
+30.10.2021;17:34:55;M Portes-Rouges;255;66;Haricots;1;0.00;2.90
+30.10.2021;17:34:55;M Portes-Rouges;255;66;MBud Carottes;1;0.00;3.30
+30.10.2021;17:34:55;M Portes-Rouges;255;66;MClass Yogourt Nature;4;0.00;1.80
+30.10.2021;17:34:55;M Portes-Rouges;255;66;M-Drink UHT Brik 12x1l;1;0.00;11.30
+30.10.2021;17:34:55;M Portes-Rouges;255;66;Coupon Bonus 2x;1;0;0
+26.10.2021;16:39:24;M Les Cadolles;252;75;Cabas;1;0.00;0.30
+26.10.2021;16:39:24;M Les Cadolles;252;75;Test de grossesse;2;0.00;17.90
+26.10.2021;16:39:24;M Les Cadolles;252;75;Valflora M-Drink UHT;1;0.00;1.35
+26.10.2021;16:39:24;M Les Cadolles;252;75;Maxi fromage râpé;2;0.00;7.10
+26.10.2021;16:39:24;M Les Cadolles;252;75;MClass saucisse vienne;1;0.00;7.95
+26.10.2021;16:39:24;M Les Cadolles;252;75;MBud zwieback;1;0.00;1.45
+23.10.2021;17:50:41;MMM Marin Centre;007;129;Saucisse grise;0.246;0.00;2.95
+23.10.2021;17:50:41;MMM Marin Centre;007;129;Fuji Instax mini Rainb;1;0.00;14.95
+23.10.2021;17:50:41;MMM Marin Centre;007;129;Boudin;0.335;0.00;3.35
+23.10.2021;17:50:41;MMM Marin Centre;007;129;7-HP Zink Photo Paper;1;0.00;34.90
+23.10.2021;17:50:41;MMM Marin Centre;007;129;MBud Jambon;3;0.00;10.95
+23.10.2021;17:50:41;MMM Marin Centre;007;129;MClass Viande hachée;0.500;3.75;5.25
+23.10.2021;17:50:41;MMM Marin Centre;007;129;MClass Viande hachée;0.500;3.75;5.25
+23.10.2021;17:50:41;MMM Marin Centre;007;129;Fuji Instax mini Rainb;1;0.00;14.95
+23.10.2021;17:50:41;MMM Marin Centre;007;129;Batavia verte;1;0.00;1.75
+23.10.2021;17:50:41;MMM Marin Centre;007;129;Carottes;1;0.00;1.90
+23.10.2021;17:50:41;MMM Marin Centre;007;129;MClass Séré demi-gras;1;0.00;1.45
+23.10.2021;17:50:41;MMM Marin Centre;007;129;Edding Textile Fun;1;0.00;9.95
+23.10.2021;17:50:41;MMM Marin Centre;007;129;Ciboulette;1;0.00;0.95
+23.10.2021;17:50:41;MMM Marin Centre;007;129;Cherrytomates grappes;1;0.00;3.95
+23.10.2021;17:50:41;MMM Marin Centre;007;129;Oeufs 10 x 63g+;1;0.00;5.80
+23.10.2021;17:50:41;MMM Marin Centre;007;129;MBud Sere Maigre 500g;1;0.00;1.15
+23.10.2021;17:50:41;MMM Marin Centre;007;129;Feuille chêne verte;1;0.00;1.75
+23.10.2021;17:50:41;MMM Marin Centre;007;129;Concombre;2;0.00;2.60
+23.10.2021;17:50:41;MMM Marin Centre;007;129;MClass Pâte feullete;2;0.00;2.70
+23.10.2021;17:50:41;MMM Marin Centre;007;129;Levure fraîche;1;0.00;0.25
+23.10.2021;17:50:41;MMM Marin Centre;007;129;MClass aliment lapins;1;0.00;3.35
+23.10.2021;17:50:41;MMM Marin Centre;007;129;Coupon Bonus 2x;1;0;0
+23.10.2021;17:49:34;MMM Marin Centre;007;128;Max oreilles de porc;1;0.00;5.95
+23.10.2021;17:49:34;MMM Marin Centre;007;128;LEGO City 60238;1;0.00;24.90
+23.10.2021;17:49:34;MMM Marin Centre;007;128;LEGO CITY 60197;1;0.00;119.00
+23.10.2021;17:49:34;MMM Marin Centre;007;128;Cartes postales;1;0.00;2.30
+23.10.2021;17:49:34;MMM Marin Centre;007;128;Valflora M-Drink UHT;1;0.00;0.90
+23.10.2021;17:49:34;MMM Marin Centre;007;128;Cancoillotte ail;1;0.00;4.50
+23.10.2021;17:49:34;MMM Marin Centre;007;128;Sélec Cherry grappes;1;0.00;3.10
+23.10.2021;17:49:34;MMM Marin Centre;007;128;Tresse au beurre;1;0.00;2.40
+22.10.2021;10:57:26;M Les Cadolles;251;24;Milette protege;1;0.00;2.95
+22.10.2021;10:57:26;M Les Cadolles;251;24;Red Bull blue edition;2;0.00;3.40
+22.10.2021;10:57:26;M Les Cadolles;251;24;Red Bull tropical edit;1;0.00;1.70
+22.10.2021;10:57:26;M Les Cadolles;251;24;Max os à mâcher 2pce;1;0.00;3.80
+22.10.2021;10:57:26;M Les Cadolles;251;24;Bruno ours bleu;1;0.00;39.90
+22.10.2021;10:57:26;M Les Cadolles;251;24;Bruno ours bleu;-1;0.00;-39.90
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Poires Conférence;0.708;0.00;2.55
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Pommes Gala;0.972;0.00;3.50
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;M-Budget Bananes;0.786;0.00;1.10
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Figues bleues;1;0.75;2.50
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Tomates dattes;1;0.00;2.70
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Gingembre;0.415;0.00;2.20
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Celeri-branche;0.674;0.00;3.00
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Carottes;1;0.00;1.95
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Poireau coupe;0.349;0.00;1.85
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Chou-Fleur;0.775;0.00;3.45
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Cherrytomat. mélangées;1;0.00;4.50
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Courges Butternut;1.352;1.10;3.65
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Valflora M-Drink;1;0.00;8.10
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Le Gruyère salé;0.508;0.00;9.65
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Laitue rouge;1;0.00;1.80
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Laitue pommée;1;0.00;1.70
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Concombre;1;0.00;1.55
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Fenouil;0.627;0.60;1.85
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Bifidus Nature;2;0.00;1.10
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Bifidus Nature;2;0.00;1.10
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Coques vol-au-vent;1;0.00;1.90
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Bio aha! gal.5 céreals;1;0.00;2.35
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Baguette aux olives;1;0.00;4.30
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Courgettes;0.731;0.00;2.85
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Brocoli;0.823;0.00;3.95
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Red Bull the white edi;1;0.00;1.70
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Red Bull blue edition;1;0.00;1.70
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Jambon talon;0.205;0.00;3.90
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Jambon talon;0.187;0.00;3.55
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Poulet epice en sachet;1.106;0.00;11.50
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Saucisse foie fumée;0.348;1.75;4.00
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Saucisse aux choux;0.313;1.75;3.75
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Saucisson neuchatelois;0.398;0.00;10.75
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Saucisse aux choux;0.325;1.80;3.90
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Raccard Nature Maxi;0.759;8.75;8.35
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Pomme d.terre Amandine;1;0.00;4.95
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Heinz ketchup 800ml;1;0.00;4.25
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;MClass aliment lapins;1;0.00;3.35
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;MClass farce vol vent;1;0.00;5.60
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Exelia Pink Pleasure 1;1;3.25;3.25
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Exelia Pink Pleasure 1;1;3.25;3.25
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Assiettes 23x23cm;1;0.00;3.50
+02.10.2021;11:26:36;MMM Marin-Centre;440;2622;Cabas reutilisable;1;0.00;2.00
+01.10.2021;10:52:00;M Portes-Rouges;256;23;Cabas;1;0.00;0.30
+01.10.2021;10:52:00;M Portes-Rouges;256;23;Ramequins;1;0.00;1.60
+01.10.2021;10:49:30;M Portes-Rouges;256;21;Lattesso Espresso;1;0.00;2.35
+01.10.2021;10:49:30;M Portes-Rouges;256;21;Max os à mâcher 2pce;5;0.00;19.00
+01.10.2021;10:49:30;M Portes-Rouges;256;21;Nivea deo dry impact m;1;0.00;3.90
+01.10.2021;10:49:30;M Portes-Rouges;256;21;Nivea Douche Men Trio;1;0.00;4.80
+01.10.2021;10:49:30;M Portes-Rouges;256;21;Milette junior 5;1;0.00;7.70
+01.10.2021;10:49:30;M Portes-Rouges;256;21;Milette juniorpl. 5+;1;0.00;7.70
+27.09.2021;09:52:37;MM Hôpital;256;20;Trendy Fashion;1;0.00;14.90
+27.09.2021;09:52:37;MM Hôpital;256;20;Red Bull winter edit.;1;0.00;1.70
+27.09.2021;09:52:37;MM Hôpital;256;20;M-Budget Test de gross;1;0.00;19.90
+27.09.2021;09:52:37;MM Hôpital;256;20;I am Shower coco&vanil;1;0.00;2.30
+27.09.2021;09:52:37;MM Hôpital;256;20;Ornement Cheveux;1;0.00;3.00
+27.09.2021;09:51:59;MM Hôpital;256;19;Energizer Max AA 15+5;1;0.00;19.80
+27.09.2021;09:51:59;MM Hôpital;256;19;Sac plastique;1;0.00;0.05
+25.09.2021;12:34:52;M Les Cadolles;002;39;Valflora M-Drink;1;0.00;8.10
+25.09.2021;12:34:52;M Les Cadolles;002;39;Condy petits oignons;1;0.00;2.00
+25.09.2021;12:34:52;M Les Cadolles;002;39;Tomates séchées;1;0.00;2.80
+25.09.2021;12:34:52;M Les Cadolles;002;39;Oignons;1;0.00;1.90
+25.09.2021;12:34:52;M Les Cadolles;002;39;Maxi fromage râpé;4;0.00;14.20
+25.09.2021;12:34:52;M Les Cadolles;002;39;Salade Iceberg;1;0.00;1.60
+25.09.2021;12:34:52;M Les Cadolles;002;39;Poivrons mélangés;1;0.00;2.50
+25.09.2021;12:34:52;M Les Cadolles;002;39;MClass Poulet escalope;0.447;4.47;6.70
+25.09.2021;12:34:52;M Les Cadolles;002;39;Nacho chips;1;0.00;3.60
+25.09.2021;12:34:52;M Les Cadolles;002;39;El Sombr. tortilla big;1;0.00;2.20
+25.09.2021;12:34:52;M Les Cadolles;002;39;Chicken mix;1;0.00;1.40
+25.09.2021;12:34:52;M Les Cadolles;002;39;MBud Lardons fumés;1;0.00;2.75
+25.09.2021;12:34:52;M Les Cadolles;002;39;Salsa dip medium;1;0.00;2.10
+25.09.2021;12:34:52;M Les Cadolles;002;39;Avocat;2;1.00;2.30
+25.09.2021;12:34:52;M Les Cadolles;002;39;Valflora crème fraîche;1;0.40;2.20
+25.09.2021;12:34:52;M Les Cadolles;002;39;Valflora Demi-crème;2;0.00;2.60
+25.09.2021;12:34:52;M Les Cadolles;002;39;Gingembre;0.264;0.00;1.40
+25.09.2021;12:34:52;M Les Cadolles;002;39;Yogos Greque nature;4;0.00;3.80
+25.09.2021;12:34:52;M Les Cadolles;002;39;Guacamole mix;1;0.00;1.40
+25.09.2021;12:34:52;M Les Cadolles;002;39;Havelaar Limes;1;0.00;0.55
+18.09.2021;15:09:11;MMM Marin-Centre;1;9050;Cocorito;1;0.00;24.95
+18.09.2021;15:09:11;MMM Marin-Centre;1;9050;Slip pour fille lot 3;1;0.00;9.95
+18.09.2021;15:09:11;MMM Marin-Centre;1;9050;MSC Noix St-Jacques;0.282;0.00;18.90
+18.09.2021;15:09:11;MMM Marin-Centre;1;9050;Filet de thon albacore;0.288;0.00;18.45
+18.09.2021;15:09:11;MMM Marin-Centre;1;9050;ASC crevet. crues dec.;0.206;0.00;10.10
+18.09.2021;15:09:11;MMM Marin-Centre;1;9050;ASC suprême de saumon;1;0.00;7.40
+18.09.2021;15:09:11;MMM Marin-Centre;1;9050;MClass Séré maigre;1;0.00;0.75
+18.09.2021;15:06:31;MMM Marin-Centre;438;868;Celeri-branche;0.761;0.00;3.50
+18.09.2021;15:06:31;MMM Marin-Centre;438;868;Chou chinois;0.608;0.00;2.25
+18.09.2021;15:06:31;MMM Marin-Centre;438;868;Endives;1;0.00;1.70
+18.09.2021;15:06:31;MMM Marin-Centre;438;868;Carottes;1;0.00;2.00
+18.09.2021;15:06:31;MMM Marin-Centre;438;868;Fondue moitié-moitié;1;0.00;12.95
+18.09.2021;15:06:31;MMM Marin-Centre;438;868;Aproz thé blanc pêche;1;0.00;1.15
+18.09.2021;15:06:31;MMM Marin-Centre;438;868;MClass copeaux de bois;1;0.00;3.60
+18.09.2021;15:06:31;MMM Marin-Centre;438;868;Max os à mâcher 2pce;1;1.14;2.66
+18.09.2021;15:06:31;MMM Marin-Centre;438;868;Max os à mâcher 2pce;1;1.14;2.66
+18.09.2021;15:06:31;MMM Marin-Centre;438;868;Max os à mâcher 2pce;1;1.14;2.66
+18.09.2021;15:06:31;MMM Marin-Centre;438;868;Max os à mâcher 2pce;1;1.14;2.66
+18.09.2021;15:06:31;MMM Marin-Centre;438;868;MClass aliment lapins;1;0.00;3.35
+18.09.2021;15:06:31;MMM Marin-Centre;438;868;Soft Comfort Pure;1;0.00;7.50
+18.09.2021;15:06:31;MMM Marin-Centre;438;868;Red Bull the white edi;1;0.00;1.70
+18.09.2021;15:06:31;MMM Marin-Centre;438;868;Milette Naturals Jun.;1;0.00;11.65
+18.09.2021;15:06:31;MMM Marin-Centre;438;868;Arrondi en v. faveur;1;0.00;-0.04
+14.09.2021;17:00:17;M Les Cadolles;002;103;Sac poubelle taxé 35L;1;0.00;20.00
+14.09.2021;17:00:17;M Les Cadolles;002;103;MClass bubble gum;1;0.00;2.75
+04.09.2021;10:55:10;MMM Marin-Centre;436;4850;Fenouil;0.488;0.00;2.05
+04.09.2021;10:55:10;MMM Marin-Centre;436;4850;Chou-Fleur;0.719;0.00;3.45
+04.09.2021;10:55:10;MMM Marin-Centre;436;4850;Brocoli;0.567;0.00;2.95
+04.09.2021;10:55:10;MMM Marin-Centre;436;4850;Carottes;1;0.00;1.95
+04.09.2021;10:55:10;MMM Marin-Centre;436;4850;Batavia verte;1;0.00;2.80
+04.09.2021;10:55:10;MMM Marin-Centre;436;4850;Feuille chêne rouge;1;0.00;2.20
+04.09.2021;10:55:10;MMM Marin-Centre;436;4850;Maxi fromage râpé;1;0.00;3.55
+04.09.2021;10:55:10;MMM Marin-Centre;436;4850;Maxi fromage râpé;1;0.00;3.55
+04.09.2021;10:55:10;MMM Marin-Centre;436;4850;Maxi fromage râpé;1;0.00;3.55
+04.09.2021;10:55:10;MMM Marin-Centre;436;4850;Maxi fromage râpé;1;0.00;3.55
+04.09.2021;10:55:10;MMM Marin-Centre;436;4850;Maxi fromage râpé;1;0.00;3.55
+04.09.2021;10:55:10;MMM Marin-Centre;436;4850;Red Bull the white edi;1;0.00;1.70
+04.09.2021;10:55:10;MMM Marin-Centre;436;4850;Red Bull blue edition;1;0.00;1.70
+04.09.2021;10:55:10;MMM Marin-Centre;436;4850;Dés de lard fumé;1;0.00;2.60
+01.09.2021;17:20:47;MM Hôpital;254;110;Ice Tea citron 50cl;1;0.00;0.90
+01.09.2021;17:20:47;MM Hôpital;254;110;Valflora M-Drink;1;0.00;8.10
+01.09.2021;17:20:47;MM Hôpital;254;110;Milette juniorpl. 5+;1;0.00;7.70
+01.09.2021;17:20:47;MM Hôpital;254;110;Milette Naturals Jun.;1;0.00;11.65
+01.09.2021;17:20:47;MM Hôpital;254;110;Cabas;1;0.00;0.30
+01.09.2021;17:20:47;MM Hôpital;254;110;CUMULUS BON 10.-;0;0;-10.00
+01.09.2021;17:20:47;MM Hôpital;254;110;CUMULUS BON 5.-;0;0;-5.00
+01.09.2021;17:20:47;MM Hôpital;254;110;CUMULUS BON 5.-;0;0;-5.00
+01.09.2021;17:20:47;MM Hôpital;254;110;CUMULUS BON 5.-;0;0;-5.00
+01.09.2021;17:20:47;MM Hôpital;254;110;Coupon Bonus 2x;1;0;0
+27.08.2021;17:45:08;M Les Cadolles;253;97;Bio Ice Tea gingembre;1;0.00;1.20
+27.08.2021;17:45:08;M Les Cadolles;253;97;Max os à mâcher 2pce;3;0.00;11.40
+27.08.2021;17:45:08;M Les Cadolles;253;97;Batavia verte;1;0.00;2.80
+27.08.2021;17:45:08;M Les Cadolles;253;97;Feuille chêne rouge;1;0.00;2.20
+27.08.2021;17:45:08;M Les Cadolles;253;97;Durabase AA 12p.;1;0.00;9.95
+24.08.2021;08:57:31;M Les Cadolles;252;7;Red Bull blue edition;1;0.00;1.70
+24.08.2021;08:57:31;M Les Cadolles;252;7;MClass Fromage fondu;1;0.00;2.45
+23.08.2021;09:57:48;MM Hôpital;257;26;Cabas reutilisable;1;0.00;2.00
+23.08.2021;09:57:48;MM Hôpital;257;26;Milette junior 5;1;0.00;7.70
+23.08.2021;09:57:48;MM Hôpital;257;26;Sangenic recharge;1;0.00;47.50
+23.08.2021;09:57:48;MM Hôpital;257;26;MBud Classic Tabs;1;0.00;6.00
+23.08.2021;09:57:48;MM Hôpital;257;26;Cahiers E6 4mm 2pce;1;0.00;1.50
+23.08.2021;09:57:48;MM Hôpital;257;26;Red Bull blue edition;1;0.00;1.70
+23.08.2021;09:57:48;MM Hôpital;257;26;Hair Fashion;1;0.00;4.90
+23.08.2021;09:57:48;MM Hôpital;257;26;Hair Fashion;1;0.00;5.90
+23.08.2021;09:57:48;MM Hôpital;257;26;MClass copeaux de bois;1;0.00;3.60
+10.08.2021;17:03:32;M Les Cadolles;251;94;Valflora M-Drink UHT;4;0.00;5.40
+10.08.2021;17:03:32;M Les Cadolles;251;94;Melon Charentais;1;0.00;2.20
+10.08.2021;17:03:32;M Les Cadolles;251;94;Passata di pomodoro;2;0.00;4.20
+10.08.2021;17:03:32;M Les Cadolles;251;94;Max os à mâcher 2pce;1;0.00;3.80
+10.08.2021;17:03:32;M Les Cadolles;251;94;Oeufs CH 10x53g+;1;0.00;4.95
+10.08.2021;17:03:32;M Les Cadolles;251;94;M-Budget Essuie-tout;2;0.00;5.00
+10.08.2021;17:03:32;M Les Cadolles;251;94;MClass aliment lapins;1;0.00;3.35
+10.08.2021;17:03:32;M Les Cadolles;251;94;Champ. blancs/bruns;1;0.00;2.40
+10.08.2021;17:03:32;M Les Cadolles;251;94;MClass Jambon paysan;0.142;0.00;3.70
+10.08.2021;17:03:32;M Les Cadolles;251;94;Brochette poulet orien;0.178;3.09;3.60
+10.08.2021;17:03:32;M Les Cadolles;251;94;Mozzarella Galbani;1;0.00;4.65
+10.08.2021;17:03:32;M Les Cadolles;251;94;Fenouil;0.962;0.00;3.75
+10.08.2021;17:03:32;M Les Cadolles;251;94;Oignons frais blancs;1;0.00;1.80
+10.08.2021;17:03:32;M Les Cadolles;251;94;Bifidus Nature;4;0.00;2.20
+10.08.2021;17:03:32;M Les Cadolles;251;94;Poireaux verts;0.471;0.00;3.25
+10.08.2021;17:03:32;M Les Cadolles;251;94;MBud Pizza/Gratin;1;0.00;3.10
+10.08.2021;17:03:32;M Les Cadolles;251;94;Valflora Demi-crème;1;0.00;1.30
+10.08.2021;17:03:32;M Les Cadolles;251;94;Beurre de cuisine;2;0.00;6.40
+10.08.2021;17:03:32;M Les Cadolles;251;94;Concombre;2;0.00;2.90
+10.08.2021;17:03:32;M Les Cadolles;251;94;Brocoli;0.519;0.00;2.75
+10.08.2021;17:03:32;M Les Cadolles;251;94;Chou-Fleur;0.935;0.00;4.30
+10.08.2021;17:03:32;M Les Cadolles;251;94;Tomates Peretti;0.403;0.00;1.45
+10.08.2021;17:03:32;M Les Cadolles;251;94;Endives;1;0.00;1.70
+10.08.2021;17:03:32;M Les Cadolles;251;94;Levure fraîche;1;0.00;0.25
+10.08.2021;17:03:32;M Les Cadolles;251;94;Batavia verte;1;0.00;2.80
+10.08.2021;17:03:32;M Les Cadolles;251;94;Pêches plate;0.333;0.00;1.10
+10.08.2021;17:03:32;M Les Cadolles;251;94;Pêches plate;0.333;0.00;1.10
+09.08.2021;08:57:34;MM Hôpital;005;65;Milette protege;1;0.00;2.95
+09.08.2021;08:57:34;MM Hôpital;005;65;Sangenic recharge;1;0.00;13.20
+09.08.2021;08:57:34;MM Hôpital;005;65;Red Bull blue edition;1;0.00;1.70
+09.08.2021;08:57:34;MM Hôpital;005;65;Red Bull summer edit.;1;0.00;1.70
+09.08.2021;08:57:34;MM Hôpital;005;65;Red Bull tropical edit;1;0.00;1.70
+09.08.2021;08:57:34;MM Hôpital;005;65;Red Bull red edition;1;0.00;1.70
+03.08.2021;16:38:47;M Portes-Rouges;256;76;M-Budget Bananes;1.071;0.00;1.50
+03.08.2021;16:38:47;M Portes-Rouges;256;76;Melon Charentais;2;1.10;3.90
+03.08.2021;16:38:47;M Portes-Rouges;256;76;Tomates Coeur de Boeuf;1.641;0.00;7.55
+03.08.2021;16:38:47;M Portes-Rouges;256;76;Ananas;1;0.00;2.55
+03.08.2021;16:38:47;M Portes-Rouges;256;76;Poireaux verts;0.812;0.00;5.60
+03.08.2021;16:38:47;M Portes-Rouges;256;76;Laitue pommée;1;0.00;1.95
+03.08.2021;16:38:47;M Portes-Rouges;256;76;Pomm.de t.farineuse;1;0.00;3.90
+03.08.2021;16:38:47;M Portes-Rouges;256;76;Thym;1;0.00;1.90
+03.08.2021;16:38:47;M Portes-Rouges;256;76;Fenouil;0.303;0.00;1.35
+03.08.2021;16:38:47;M Portes-Rouges;256;76;Beurre de cuisine;2;0.00;6.40
+03.08.2021;16:38:47;M Portes-Rouges;256;76;Valflora M-Drink;1;0.00;8.10
+03.08.2021;16:38:47;M Portes-Rouges;256;76;Maxi fromage râpé;3;0.00;10.65
+03.08.2021;16:38:47;M Portes-Rouges;256;76;MClass Mousse Choco;1;0.20;0.45
+03.08.2021;16:38:47;M Portes-Rouges;256;76;Mozzarella Galbani;1;1.20;4.65
+03.08.2021;16:38:47;M Portes-Rouges;256;76;oeufs plein air 6x53g+;1;0.00;2.95
+03.08.2021;16:38:47;M Portes-Rouges;256;76;MBud Jambon;2;0.00;7.30
+03.08.2021;16:38:47;M Portes-Rouges;256;76;MBud Lardons fumés;1;0.00;2.75
+03.08.2021;16:38:47;M Portes-Rouges;256;76;MBud épinards haché;1;0.00;1.70
+03.08.2021;16:38:47;M Portes-Rouges;256;76;MClass aliment lapins;1;0.00;3.35
+03.08.2021;16:38:47;M Portes-Rouges;256;76;Max os à mâcher 2pce;2;0.00;7.60
+03.08.2021;16:38:47;M Portes-Rouges;256;76;M-Bud chien inulin 3kg;1;0.00;4.95
+03.08.2021;16:38:47;M Portes-Rouges;256;76;MClass foin 1kg;1;0.00;2.20
+03.08.2021;16:38:47;M Portes-Rouges;256;76;Asco a'petito volaille;1;0.00;1.95
+03.08.2021;16:38:47;M Portes-Rouges;256;76;Milette protege;1;0.00;2.95
+03.08.2021;16:38:47;M Portes-Rouges;256;76;Milette Naturals Jun.;1;0.00;11.65
+03.08.2021;16:38:47;M Portes-Rouges;256;76;M-Bud brosse à dents;1;0.00;0.80
+03.08.2021;16:38:47;M Portes-Rouges;256;76;Caffè Latte Espresso;1;0.00;1.90
+03.08.2021;16:38:47;M Portes-Rouges;256;76;CUM20x Pts Bananes;1;0;0
+03.08.2021;16:38:47;M Portes-Rouges;256;76;CUM10x Pts Couches Milette;1;0;0
+02.08.2021;17:45:05;MM Hôpital;004;285;Cabas;1;0.00;0.30
+02.08.2021;17:45:05;MM Hôpital;004;285;Valflora M-Drink UHT;2;0.00;2.70
+02.08.2021;17:45:05;MM Hôpital;004;285;Poivrons mélangés;1;0.00;2.90
+02.08.2021;17:45:05;MM Hôpital;004;285;Mangue;1;0.00;1.65
+02.08.2021;17:45:05;MM Hôpital;004;285;Feuille chêne rouge;1;0.00;2.40
+02.08.2021;17:45:05;MM Hôpital;004;285;Filet de truite rose;0.208;3.00;6.15
+02.08.2021;17:45:05;MM Hôpital;004;285;Fenouil;0.456;0.00;1.80
+24.07.2021;17:00:54;M Colombier;001;331;Milette junior 5;1;0.00;7.70
+24.07.2021;17:00:54;M Colombier;001;331;MClass copeaux de bois;1;0.00;3.60
+24.07.2021;17:00:54;M Colombier;001;331;MClass Viande hachée;0.500;-5.50;3.50
+24.07.2021;17:00:54;M Colombier;001;331;MClass Viande hachée;0.504;-5.51;3.55
+24.07.2021;17:00:54;M Colombier;001;331;MClass Viande hachée;0.504;-5.51;3.55
+24.07.2021;17:00:54;M Colombier;001;331;MClass Viande hachée;0.504;-5.51;3.55
+24.07.2021;17:00:54;M Colombier;001;331;MClass Viande hachée;0.504;-5.51;3.55
+24.07.2021;17:00:54;M Colombier;001;331;MClass Viande hachée;0.504;-5.51;3.55
+24.07.2021;17:00:54;M Colombier;001;331;MClass Viande hachée;0.500;-5.50;3.50
+24.07.2021;17:00:54;M Colombier;001;331;MClass Viande hachée;0.504;-5.51;3.55
+24.07.2021;17:00:54;M Colombier;001;331;MClass Viande hachée;0.504;-5.51;3.55
+24.07.2021;17:00:54;M Colombier;001;331;MClass Viande hachée;0.500;-5.50;3.50
+24.07.2021;17:00:54;M Colombier;001;331;Max os à mâcher 2pce;2;0.00;7.60
+24.07.2021;17:00:54;M Colombier;001;331;Baguette à l'ail;1;0.00;1.25
+24.07.2021;17:00:54;M Colombier;001;331;Ice Tea citron 50cl;1;0.00;0.90
+24.07.2021;17:00:54;M Colombier;001;331;Tomates Peretti;0.542;0.00;1.95
+24.07.2021;17:00:54;M Colombier;001;331;Max os à mâcher 2pce;1;0.00;3.80
+24.07.2021;17:00:54;M Colombier;001;331;Rumpsteak;0.491;9.57;22.35
+24.07.2021;17:00:54;M Colombier;001;331;Baguette à l'ail;1;0.00;1.25
+24.07.2021;17:00:54;M Colombier;001;331;Ice Tea pêche 50cl;1;0.00;0.90
+24.07.2021;17:00:54;M Colombier;001;331;Galbani Mozzarella;1;0.00;4.20
+24.07.2021;17:00:54;M Colombier;001;331;Bifidus Nature;4;0.00;2.20
+24.07.2021;17:00:54;M Colombier;001;331;Ail;1;0.00;1.35
+23.07.2021;14:07:55;M Les Cadolles;251;84;Test de grossesse;1;0.00;11.50
+23.07.2021;14:07:23;M Les Cadolles;251;83;Test de grossesse;1;0.00;11.50
+17.07.2021;15:42:08;M Les Cadolles;001;408;MBud Lardons fumés;1;0.00;2.75
+17.07.2021;15:42:08;M Les Cadolles;001;408;Brocoli;0.606;0.00;3.15
+17.07.2021;15:42:08;M Les Cadolles;001;408;Hipp FF. Fra. Ba. Pom.;1;0.00;0.95
+17.07.2021;15:42:08;M Les Cadolles;001;408;oeufs plein air 6x53g+;1;0.00;2.95
+17.07.2021;15:42:08;M Les Cadolles;001;408;Monini classico 1l;1;0.00;13.60
+17.07.2021;15:42:08;M Les Cadolles;001;408;MBud Champignons;1;0.00;2.00
+17.07.2021;15:42:08;M Les Cadolles;001;408;Valflora Crème entière;1;0.00;1.75
+17.07.2021;15:42:08;M Les Cadolles;001;408;Ice Tea citron 50cl;1;0.00;0.90
+17.07.2021;15:42:08;M Les Cadolles;001;408;Ice Tea pêche 50cl;1;0.00;0.90
+17.07.2021;15:42:08;M Les Cadolles;001;408;Garofalo Tort. jambon;1;0.00;5.95
+17.07.2021;15:42:08;M Les Cadolles;001;408;Crème Fraîche herbes;1;0.00;2.70
+17.07.2021;15:42:08;M Les Cadolles;001;408;MBud Lardons fumés;1;0.00;2.75
+17.07.2021;15:42:08;M Les Cadolles;001;408;Sélec Raviol. tartufo;1;0.00;5.95
+17.07.2021;15:42:08;M Les Cadolles;001;408;Yogos Nature;1;0.80;3.00
+17.07.2021;15:42:08;M Les Cadolles;001;408;MBud MSC bat. surimi;1;0.00;2.15
+17.07.2021;15:42:08;M Les Cadolles;001;408;Valflora Demi-crème;1;0.00;1.30
+17.07.2021;15:42:08;M Les Cadolles;001;408;Coupon Bonus 2x;1;0;0
+16.07.2021;08:25:41;M Les Cadolles;001;39;Milette junior 5;1;0.00;7.70
+16.07.2021;08:25:41;M Les Cadolles;001;39;Ovomaltine 2x1kg;1;0.00;24.40
+16.07.2021;08:25:41;M Les Cadolles;001;39;Max os à mâcher 2pce;4;0.00;15.20
+16.07.2021;08:25:41;M Les Cadolles;001;39;Cabas reutilisable;1;0.00;2.00
+16.07.2021;08:25:41;M Les Cadolles;001;39;Pommes Golden;0.703;0.00;2.25
+16.07.2021;08:25:41;M Les Cadolles;001;39;Ananas;1;0.00;2.55
+16.07.2021;08:25:41;M Les Cadolles;001;39;Endives;1;0.00;1.70
+16.07.2021;08:25:41;M Les Cadolles;001;39;Lattesso Espresso;1;0.47;1.88
+16.07.2021;08:25:41;M Les Cadolles;001;39;Poires Abbe Fetel;0.679;0.00;2.65
+16.07.2021;08:25:41;M Les Cadolles;001;39;Feuille chêne verte;1;0.00;1.75
+16.07.2021;08:25:41;M Les Cadolles;001;39;Kiwis;1;0.55;2.40
+16.07.2021;08:25:41;M Les Cadolles;001;39;Feuille chêne verte;1;0.00;1.75
+16.07.2021;08:25:41;M Les Cadolles;001;39;Coupon Bonus 2x;1;0;0
+14.07.2021;09:17:59;MM Hôpital;005;39;Rumsteak Dry Aged;0.552;11.89;27.30
+14.07.2021;09:17:59;MM Hôpital;005;39;MSC Noix St-jacques;0.226;0.00;14.70
+14.07.2021;09:17:59;MM Hôpital;005;39;Red Bull blue edition;2;0.00;3.40
+14.07.2021;09:17:59;MM Hôpital;005;39;Assiettes en papier;1;0.00;2.95
+14.07.2021;09:17:59;MM Hôpital;005;39;Coca-Cola 75cl;1;0.00;1.45
+14.07.2021;09:17:59;MM Hôpital;005;39;Bio Ice Tea félicité;1;0.00;1.80
+14.07.2021;09:17:59;MM Hôpital;005;39;Rexona Deo Creme Maxim;1;0.00;5.20
+14.07.2021;09:17:59;MM Hôpital;005;39;Bio Ice Tea herbes ss;1;0.00;1.20
+14.07.2021;09:17:59;MM Hôpital;005;39;TS farine fleur;1;0.00;1.10
+14.07.2021;09:17:59;MM Hôpital;005;39;Baguette blanche;2;0.00;3.20
+14.07.2021;09:17:59;MM Hôpital;005;39;Bio Basilic;1;0.00;1.90
+14.07.2021;09:17:59;MM Hôpital;005;39;Bougies d'anniversaire;1;0.00;2.95
+14.07.2021;09:17:59;MM Hôpital;005;39;Persil plat;1;0.00;1.40
+14.07.2021;09:17:59;MM Hôpital;005;39;Persil frisé;1;0.00;1.40
+14.07.2021;09:17:59;MM Hôpital;005;39;Guacamole mix;1;0.00;1.40
+14.07.2021;09:17:59;MM Hôpital;005;39;Alnatura câpres 90g;1;0.00;3.60
+14.07.2021;09:17:59;MM Hôpital;005;39;Crème de la Gruyère;1;0.00;4.35
+14.07.2021;09:17:59;MM Hôpital;005;39;Kid de fête;1;0.00;4.95
+14.07.2021;09:17:59;MM Hôpital;005;39;Saucisse séchée;1;0.00;7.90
+14.07.2021;09:17:59;MM Hôpital;005;39;Avocat;1;0.00;1.75
+14.07.2021;09:17:59;MM Hôpital;005;39;Havelaar Limes;1;0.00;0.55
+14.07.2021;09:17:59;MM Hôpital;005;39;Levure fraîche;1;0.00;0.25
+14.07.2021;09:17:59;MM Hôpital;005;39;Cumulus 20 -fois;1;0;0
+12.07.2021;08:26:56;MM Hôpital;253;11;Red Bull red edition;2;0.00;3.40
+07.07.2021;18:11:39;M Portes-Rouges;254;47;MClass mini-sandwiches;1;0.75;1.55
+07.07.2021;18:11:39;M Portes-Rouges;254;47;Aubergines;0.905;0.72;2.85
+07.07.2021;18:11:39;M Portes-Rouges;254;47;Pommes Golden;0.844;0.00;2.70
+07.07.2021;18:11:39;M Portes-Rouges;254;47;Laitue pommée;2;0.00;3.90
+07.07.2021;18:11:39;M Portes-Rouges;254;47;Courgettes;1.048;0.00;4.35
+07.07.2021;18:11:39;M Portes-Rouges;254;47;Fenouil;0.670;0.00;3.15
+07.07.2021;18:11:39;M Portes-Rouges;254;47;Endives;1;0.00;1.70
+07.07.2021;18:11:39;M Portes-Rouges;254;47;Concombre;3;0.00;4.35
+07.07.2021;18:11:39;M Portes-Rouges;254;47;Carottes;0.682;0.00;1.50
+07.07.2021;18:11:39;M Portes-Rouges;254;47;Thym;1;0.00;1.90
+07.07.2021;18:11:39;M Portes-Rouges;254;47;Bio Thym;1;0.00;1.90
+07.07.2021;18:11:39;M Portes-Rouges;254;47;Pomm.de t.farineuse;1;0.00;2.70
+07.07.2021;18:11:39;M Portes-Rouges;254;47;Tomates charnues;0.689;0.00;3.10
+07.07.2021;18:11:39;M Portes-Rouges;254;47;Tomates Peretti;0.750;0.00;2.70
+07.07.2021;18:11:39;M Portes-Rouges;254;47;Oignons frais blancs;1;0.00;1.80
+07.07.2021;18:11:39;M Portes-Rouges;254;47;MClass Cottage Cheese;1;0.60;2.20
+07.07.2021;18:11:39;M Portes-Rouges;254;47;MBud Jus d'orange;1;0.00;1.95
+07.07.2021;18:11:39;M Portes-Rouges;254;47;Mozzarella Galbani;1;1.20;4.65
+07.07.2021;18:11:39;M Portes-Rouges;254;47;MClass Yogourt Nature;4;0.00;1.80
+07.07.2021;18:11:39;M Portes-Rouges;254;47;MClass Mozz. râpe;1;0.00;2.90
+07.07.2021;18:11:39;M Portes-Rouges;254;47;Valflora UHT 12x1l;1;0.00;12.95
+07.07.2021;18:11:39;M Portes-Rouges;254;47;Oeufs CH 10x53g+;1;0.00;4.95
+07.07.2021;18:11:39;M Portes-Rouges;254;47;MBud Jambon;1;0.00;3.70
+07.07.2021;18:11:39;M Portes-Rouges;254;47;Levure fraîche;1;0.00;0.25
+07.07.2021;18:11:39;M Portes-Rouges;254;47;MBud Champignons;1;0.00;2.00
+07.07.2021;18:11:39;M Portes-Rouges;254;47;Grill mi Chili-Snack;1;2.30;4.60
+07.07.2021;18:11:39;M Portes-Rouges;254;47;MClass Cordon bleu;0.412;2.85;5.80
+07.07.2021;18:11:39;M Portes-Rouges;254;47;MClass Supr. cabillaud;1;2.60;5.30
+07.07.2021;18:11:39;M Portes-Rouges;254;47;Saucisse séchée;1;0.00;7.90
+07.07.2021;18:11:39;M Portes-Rouges;254;47;MClass délices fromage;1;0.00;8.95
+07.07.2021;18:11:39;M Portes-Rouges;254;47;MBud épinards crème;1;0.00;1.70
+07.07.2021;18:11:39;M Portes-Rouges;254;47;Twist Classic 16er;1;0.00;8.95
+07.07.2021;18:11:39;M Portes-Rouges;254;47;Max os à mâcher 3pce;1;0.00;6.20
+07.07.2021;18:11:39;M Portes-Rouges;254;47;Asco a'petito boeuf;1;0.00;1.95
+07.07.2021;18:11:39;M Portes-Rouges;254;47;BiC Soleil Lady rasoir;1;0.00;4.60
+07.07.2021;18:11:39;M Portes-Rouges;254;47;Exelia Pink Pleasure 1;1;0.00;6.50
+07.07.2021;18:11:39;M Portes-Rouges;254;47;Milette Naturals Jun.;1;0.00;11.65
+07.07.2021;18:11:39;M Portes-Rouges;254;47;Caffè Latte Espresso;1;0.00;1.90
+07.07.2021;18:11:39;M Portes-Rouges;254;47;Apéricube méditerranés;1;0.00;6.40
+07.07.2021;18:11:39;M Portes-Rouges;254;47;Red Bull blue edition;2;0.00;3.40
+07.07.2021;18:11:39;M Portes-Rouges;254;47;CUMULUS BON 10.-;0;0;-10.00
+07.07.2021;18:11:39;M Portes-Rouges;254;47;CUMULUS BON 10.-;0;0;-10.00
+07.07.2021;18:11:39;M Portes-Rouges;254;47;CUMULUS BON 10.-;0;0;-10.00
+07.07.2021;18:11:39;M Portes-Rouges;254;47;CUMULUS BON 5.-;0;0;-5.00
+07.07.2021;18:11:39;M Portes-Rouges;254;47;CUMULUS BON 5.-;0;0;-5.00
+07.07.2021;18:11:39;M Portes-Rouges;254;47;CUMULUS BON 5.-;0;0;-5.00
+07.07.2021;18:11:39;M Portes-Rouges;254;47;CUMULUS BON 5.-;0;0;-5.00
+07.07.2021;18:11:39;M Portes-Rouges;254;47;CUMULUS BON 5.-;0;0;-5.00
+07.07.2021;18:11:39;M Portes-Rouges;254;47;CUM +3xPts.Tout Ass.;1;0;0
+07.07.2021;18:11:39;M Portes-Rouges;254;47;CUM20x Pts Concombres;1;0;0
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Pastèque mini;1;0.00;4.50
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Haricots;1;0.00;2.75
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Fenouil;0.542;0.00;1.60
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Pêches jaunes;0.591;0.00;1.95
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Pommes Diwa;0.557;0.00;2.20
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Concombre;2;0.00;2.90
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Poires Conférence;0.795;0.00;1.75
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Tomates grappes;1.063;0.85;3.35
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Laitue pommée;2;0.00;3.20
+30.06.2021;18:24:30;M Portes-Rouges;256;107;M-Budget Bananes;0.857;0.00;1.20
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Bio Mangue;1;0.00;2.00
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Avocat;2;0.00;3.30
+30.06.2021;18:24:30;M Portes-Rouges;256;107;MBud Baguette     300g;2;0.00;1.60
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Couronne croustillante;1;0.00;2.00
+30.06.2021;18:24:30;M Portes-Rouges;256;107;MClass Mayonnaise duo;1;1.10;2.00
+30.06.2021;18:24:30;M Portes-Rouges;256;107;MClass mout. douce duo;1;0.60;1.30
+30.06.2021;18:24:30;M Portes-Rouges;256;107;MClass couscous 400g;1;0.00;1.60
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Ebly tendre blé;1;0.00;3.40
+30.06.2021;18:24:30;M Portes-Rouges;256;107;MClass salade russe;1;0.00;2.30
+30.06.2021;18:24:30;M Portes-Rouges;256;107;MClass MSC thon rosé;3;0.00;5.70
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Canapé asperges jambon;1;0.00;5.60
+30.06.2021;18:24:30;M Portes-Rouges;256;107;MClass Yogourt Nature;4;0.00;1.80
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Nacho chips;1;0.75;2.85
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Oignons frais blancs;1;0.00;1.80
+30.06.2021;18:24:30;M Portes-Rouges;256;107;MBud Champignons;1;0.00;2.00
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Boncampo grains 4x500g;1;7.15;11.65
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Galbani Mozzarella;3;0.00;5.85
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Cantadou raifort;1;0.00;2.95
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Brebette Rians;1;0.00;3.15
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Saucisse Vienne;1;0.00;8.00
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Le Montagnard;0.152;0.83;4.55
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Lait entier 4x1lt;1;0.00;5.40
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Bio Boisson Riz Amande;1;0.00;2.90
+30.06.2021;18:24:30;M Portes-Rouges;256;107;TS farine fleur;2;0.70;2.80
+30.06.2021;18:24:30;M Portes-Rouges;256;107;MClass tranches chilli;1;0.00;2.50
+30.06.2021;18:24:30;M Portes-Rouges;256;107;MClass galettes riz;1;0.00;1.65
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Biscottes 300g;1;0.00;2.25
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Tomates morceaux 400g;3;0.00;3.00
+30.06.2021;18:24:30;M Portes-Rouges;256;107;MBud Viande hachee mel;0.601;0.00;6.55
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Saucisse séchée;1;0.00;7.90
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Guacamole mix;1;0.28;1.12
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Lait de noix de coco;2;0.00;3.80
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Jus de citron intens.;1;0.00;1.10
+30.06.2021;18:24:30;M Portes-Rouges;256;107;The Mix saucisse;1;0.00;2.95
+30.06.2021;18:24:30;M Portes-Rouges;256;107;MBud fil. saumon 250g;1;0.00;4.80
+30.06.2021;18:24:30;M Portes-Rouges;256;107;MBud épinards crème;1;0.00;1.70
+30.06.2021;18:24:30;M Portes-Rouges;256;107;MClass aliment lapins;1;0.00;3.35
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Soft Sensitive 24er;1;6.65;12.95
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Sirop fraise 75cl;1;0.00;3.45
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Nivea Men Dry Impact;2;0.00;5.20
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Galactina Plasmon;1;0.00;3.90
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Milette Naturals Jun.;1;0.00;11.65
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Milette protege;1;0.00;2.95
+30.06.2021;18:24:30;M Portes-Rouges;256;107;Cumulus 20-fois;1;0;0
+28.06.2021;09:38:24;MM Hôpital;253;27;Red Bull red edition;1;0.00;1.70
+24.06.2021;18:12:10;M Les Cadolles;001;603;Hakle Prop.moelleuse9R;1;0.00;9.90
+24.06.2021;18:12:10;M Les Cadolles;001;603;Milette maxi 4;1;0.00;7.20
+24.06.2021;18:12:10;M Les Cadolles;001;603;Feuille chêne verte;1;0.00;1.75
+24.06.2021;18:12:10;M Les Cadolles;001;603;Asco a'petito boeuf;1;0.00;1.95
+24.06.2021;18:12:10;M Les Cadolles;001;603;Max os à mâcher 2pce;3;0.00;11.40
+24.06.2021;18:12:10;M Les Cadolles;001;603;Feuille chêne rouge;1;0.00;1.75
+24.06.2021;18:12:10;M Les Cadolles;001;603;Fenouil;0.610;0.67;1.80
+24.06.2021;18:12:10;M Les Cadolles;001;603;Feuille chêne verte;1;0.00;1.75
+24.06.2021;18:12:10;M Les Cadolles;001;603;Mangue;2;1.00;2.40
+24.06.2021;18:12:10;M Les Cadolles;001;603;Ovomaltine 400g;1;0.00;6.90
+24.06.2021;18:12:10;M Les Cadolles;001;603;Brocoli;0.461;0.00;2.05
+24.06.2021;18:12:10;M Les Cadolles;001;603;Red Bull blue edition;1;0.00;1.70
+24.06.2021;18:12:10;M Les Cadolles;001;603;MClass Yogourt Nature;4;0.00;1.80
+24.06.2021;18:12:10;M Les Cadolles;001;603;Red Bull blue edition;1;0.00;1.70
+24.06.2021;18:12:10;M Les Cadolles;001;603;Chou-Fleur;0.500;0.00;2.15
+24.06.2021;18:12:10;M Les Cadolles;001;603;Bio Carottes;1;0.00;4.75
+24.06.2021;18:12:10;M Les Cadolles;001;603;Red Bull 250ml;2;0.00;3.00
+24.06.2021;18:12:10;M Les Cadolles;001;603;MBud Brosses vaisselle;1;0.00;2.80
+24.06.2021;18:12:10;M Les Cadolles;001;603;Lait entier 4x1lt;2;0.00;10.80
+24.06.2021;08:19:41;M Les Cadolles;251;10;Red Bull blue edition;1;0.00;1.70
+24.06.2021;08:19:41;M Les Cadolles;251;10;MClas lungo 30cap;1;0.00;6.90
+21.06.2021;09:22:23;MM Hôpital;252;21;Huggies Swimmers 3-4;1;0.00;12.80
+21.06.2021;09:21:18;MM Hôpital;252;20;Sac plastique;1;0.00;0.05
+21.06.2021;09:21:18;MM Hôpital;252;20;Always Ultra Long +;1;0.00;3.95
+21.06.2021;09:21:18;MM Hôpital;252;20;I am Sho.LE incredible;1;0.00;1.95
+21.06.2021;09:21:18;MM Hôpital;252;20;Red Bull red edition;1;0.00;1.70
+19.06.2021;09:45:41;MMM Marin-Centre;436;7173;Salade Iceberg;1;0.60;1.00
+19.06.2021;09:45:41;MMM Marin-Centre;436;7173;Batavia verte;1;0.00;1.75
+19.06.2021;09:45:41;MMM Marin-Centre;436;7173;Feuil. à la saucisse;1;0.00;2.40
+19.06.2021;09:45:41;MMM Marin-Centre;436;7173;Feuil. à la saucisse;1;0.00;2.40
+19.06.2021;09:45:41;MMM Marin-Centre;436;7173;Red Bull red edition;1;0.00;1.70
+19.06.2021;09:45:41;MMM Marin-Centre;436;7173;Red Bull summer edit.;1;0.00;1.70
+19.06.2021;09:45:41;MMM Marin-Centre;436;7173;MClass copeaux de bois;1;0.00;3.60
+19.06.2021;09:45:41;MMM Marin-Centre;436;7173;MClass foin 1kg;1;0.00;2.20
+19.06.2021;09:45:41;MMM Marin-Centre;436;7173;Elmex Sensitive Trio;1;0.00;7.95
+19.06.2021;09:45:41;MMM Marin-Centre;436;7173;Masques 3plis 50p. MEZ;1;0.00;6.80
+19.06.2021;09:45:41;MMM Marin-Centre;436;7173;Milette Naturals Jun.;1;0.00;11.65
+19.06.2021;09:45:41;MMM Marin-Centre;436;7173;Coupon Bonus 2x;1;0;0
+10.06.2021;10:10:37;SHELL HAUTERIVE;1;1909;Ovo Crunchy Ice 10;1;0.00;2.90
+10.06.2021;10:10:37;SHELL HAUTERIVE;1;1909;Pirulo Cool W. Lem;1;0.00;1.80
+10.06.2021;10:10:37;SHELL HAUTERIVE;1;1909;Croissant jamb 70g;3;0.00;7.20
+10.06.2021;10:10:37;SHELL HAUTERIVE;1;1909;Normalpunkte;1;0;0
+10.06.2021;10:10:37;SHELL HAUTERIVE;1;1909;Ovo Crunchy Ice 10;1;0.00;2.90
+10.06.2021;10:10:37;SHELL HAUTERIVE;1;1909;Pirulo Cool W. Lem;1;0.00;1.80
+10.06.2021;10:10:37;SHELL HAUTERIVE;1;1909;Croissant jamb 70g;3;0.00;7.20
+10.06.2021;10:10:37;SHELL HAUTERIVE;1;1909;Normalpunkte;1;0;0
+09.06.2021;12:19:00;M Portes-Rouges;256;39;Red Bull summer edit.;2;0.00;3.40
+09.06.2021;12:19:00;M Portes-Rouges;256;39;Concombre;1;0.00;1.55
+09.06.2021;12:19:00;M Portes-Rouges;256;39;Fenouil;0.477;0.72;2.10
+09.06.2021;12:19:00;M Portes-Rouges;256;39;Laitue pommée;2;0.00;3.50
+09.06.2021;12:19:00;M Portes-Rouges;256;39;Feuille chêne verte;1;0.00;1.75
+09.06.2021;12:19:00;M Portes-Rouges;256;39;MClass copeaux de bois;1;0.00;3.60
+09.06.2021;12:19:00;M Portes-Rouges;256;39;Max os à mâcher 2pce;1;0.00;3.80
+09.06.2021;12:19:00;M Portes-Rouges;256;39;Milette Naturals Jun.;1;0.00;11.65
+09.06.2021;12:19:00;M Portes-Rouges;256;39;Coupon Bonus 2x;1;0;0
+05.06.2021;17:30:49;M Portes-Rouges;254;82;Ananas;1;0.00;2.55
+05.06.2021;17:30:49;M Portes-Rouges;254;82;Laitue pommée;2;0.00;3.50
+05.06.2021;17:30:49;M Portes-Rouges;254;82;Brocoli;0.438;0.00;2.85
+05.06.2021;17:30:49;M Portes-Rouges;254;82;Salade Iceberg;1;0.00;1.60
+05.06.2021;17:30:49;M Portes-Rouges;254;82;Oignons;0.242;0.00;0.40
+05.06.2021;17:30:49;M Portes-Rouges;254;82;MBud Jus d'orange;2;0.00;3.90
+05.06.2021;17:30:49;M Portes-Rouges;254;82;The Mix saucisse;1;2.45;2.50
+05.06.2021;17:30:49;M Portes-Rouges;254;82;Steak de boeuf;0.327;5.40;10.95
+05.06.2021;17:30:49;M Portes-Rouges;254;82;Escalope de porc;0.229;2.25;4.50
+05.06.2021;17:30:49;M Portes-Rouges;254;82;Tentacules de poulpe;1;0.00;10.80
+05.06.2021;17:30:49;M Portes-Rouges;254;82;Poulet meatballs;1;1.80;3.70
+05.06.2021;17:30:49;M Portes-Rouges;254;82;Steak de cheval;0.162;0.00;4.85
+05.06.2021;17:30:49;M Portes-Rouges;254;82;MClass tarte flambée;2;0.00;6.60
+05.06.2021;17:30:49;M Portes-Rouges;254;82;Bon Chef bouill. poule;1;0.00;4.40
+05.06.2021;17:30:49;M Portes-Rouges;254;82;N42 Feuille d'alumin;1;0.00;5.20
+05.06.2021;17:30:49;M Portes-Rouges;254;82;MBud Sere Maigre 500g;1;0.00;1.20
+05.06.2021;17:30:49;M Portes-Rouges;254;82;Red Bull red edition;2;0.00;3.40
+05.06.2021;17:30:49;M Portes-Rouges;254;82;Coupon Bonus 2x;1;0;0
+05.06.2021;17:30:49;M Portes-Rouges;254;82;Cumulus 20-fois;1;0;0
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Fraises;1;1.20;4.75
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Extra Mangue;1;1.00;2.90
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Melon Charentais;1;0.60;2.35
+02.06.2021;18:27:58;M Portes-Rouges;256;109;XXL Buns;1;0.00;2.50
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Croissants beurre;2;0.00;6.40
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Extra Abricots;0.680;0.00;6.05
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Laitue pommée;2;0.00;3.50
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Tomates Peretti;0.711;0.00;2.70
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Batavia verte;1;0.00;1.75
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Courgettes;0.445;0.00;2.45
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Concombre;2;0.64;2.56
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Jambon cru grison fin;1;0.00;4.50
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Al Fez taboulé salade;1;0.00;5.95
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Alfredo Mozz. Trio;1;0.90;3.45
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Merguez;1;0.00;8.40
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Lattesso Espresso;1;0.00;2.35
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Valflora Demi-crème;2;0.00;2.60
+02.06.2021;18:27:58;M Portes-Rouges;256;109;M-Drink UHT Brik 12x1l;1;0.00;12.95
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Bifidus Nature;4;0.00;2.20
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Spizzico affumicata;1;0.00;4.30
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Red Bull red edition;1;0.00;1.70
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Raccard Nature Maxi;0.638;0.00;14.35
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Fromage fondu Gruyère;1;0.00;2.50
+02.06.2021;18:27:58;M Portes-Rouges;256;109;MClass tranches chilli;1;0.00;2.50
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Condy chanterelles;1;0.00;4.50
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Condy champignons;1;0.00;2.90
+02.06.2021;18:27:58;M Portes-Rouges;256;109;MClass epis de maïs;1;0.00;1.65
+02.06.2021;18:27:58;M Portes-Rouges;256;109;MBud Viande hachee mel;0.606;2.20;4.40
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Bananes;0.674;0.00;1.55
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Poireaux verts;0.345;0.00;1.90
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Pomm.de t.farineuse;1;0.00;3.05
+02.06.2021;18:27:58;M Portes-Rouges;256;109;MBud MSC fil. gourmet;1;0.00;2.50
+02.06.2021;18:27:58;M Portes-Rouges;256;109;MBud fil. saumon 250g;1;0.00;4.80
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Poulet epice en sachet;1.084;2.28;9.00
+02.06.2021;18:27:58;M Portes-Rouges;256;109;MClass mayonnaise 265g;2;0.00;3.10
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Heinz ketchup 800ml;1;0.00;4.25
+02.06.2021;18:27:58;M Portes-Rouges;256;109;MClass moutarde douce;1;0.00;0.95
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Saucisse séchée;1;0.00;7.90
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Poivre noir grains;2;0.00;2.00
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Agnesi pesto calabrese;1;0.00;3.40
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Agnesi sauce à l'ail;1;0.00;2.95
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Agnesi arrabbiata;1;0.00;2.80
+02.06.2021;18:27:58;M Portes-Rouges;256;109;MClass huil tournesol;1;0.00;4.60
+02.06.2021;18:27:58;M Portes-Rouges;256;109;MClass pesto Genovese;1;0.00;1.95
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Max os à mâcher 2pce;2;1.52;6.08
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Sirop fraise 75cl;1;0.00;3.45
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Nivea deo dry impact m;2;0.00;7.80
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Primalla rondelles d'o;1;0.00;4.55
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Milette Naturals Jun.;1;0.00;11.65
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Alnatura B. cér sem.;1;0.00;3.40
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Energizer Max AA 18+8;1;0.00;24.95
+02.06.2021;18:27:58;M Portes-Rouges;256;109;Coupon Bonus 2x;1;0;0
+02.06.2021;18:27:58;M Portes-Rouges;256;109;CUM10x Pts Couches Milette;1;0;0
+29.05.2021;12:35:33;M Les Cadolles;001;248;Pampers Baby Dry 5;1;0.00;18.90
+29.05.2021;12:35:33;M Les Cadolles;001;248;MBud Film alimentaire;1;0.00;1.25
+29.05.2021;12:35:33;M Les Cadolles;001;248;Cabas reutilisable;1;0.00;2.00
+29.05.2021;12:35:33;M Les Cadolles;001;248;Sacs à ordures 110L;1;0.00;2.90
+29.05.2021;12:35:33;M Les Cadolles;001;248;Couverts à salade;1;0.00;2.95
+29.05.2021;12:35:33;M Les Cadolles;001;248;Presse-ail;1;0.00;12.95
+29.05.2021;12:35:33;M Les Cadolles;001;248;Pitch Pepites de Choco;1;0.84;3.36
+29.05.2021;12:35:33;M Les Cadolles;001;248;Sac poubelle taxé 35L;1;0.00;20.00
+29.05.2021;12:35:33;M Les Cadolles;001;248;Couteau d'office crant;2;0.00;6.60
+29.05.2021;12:35:33;M Les Cadolles;001;248;Laitue pommée;2;0.00;3.50
+29.05.2021;12:35:33;M Les Cadolles;001;248;Vieux pané;0.182;0.00;4.65
+29.05.2021;12:35:33;M Les Cadolles;001;248;Red Bull blue edition;2;0.00;3.40
+29.05.2021;12:35:33;M Les Cadolles;001;248;Epinards;1;0.00;3.85
+29.05.2021;12:35:33;M Les Cadolles;001;248;Coupon Bonus 2x;1;0;0
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Ananas;1;0.00;2.55
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Pommes Pink Lady;0.913;0.00;4.70
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Poires Bosc;1.218;0.00;4.75
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Mangue;1;0.00;1.70
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Mangue;1;0.00;1.70
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Poivrons mélangés;1;0.00;2.50
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Citrons non traités;1;0.00;0.45
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Citrons non traités;1;0.00;0.45
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Feuille chêne rouge;1;0.35;1.40
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Batavia verte;1;0.35;1.40
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Fenouil;0.449;0.00;2.65
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Champignons blancs;1;0.00;2.20
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Tomates Peretti;2.013;0.00;7.65
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Carottes;1;0.00;1.65
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Endives;1;0.00;2.20
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Menthe;1;0.00;1.90
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Echalottes;1;0.00;2.70
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Bio Concombre;1;0.00;2.90
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Bio Oignons;1;0.00;2.50
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Brocoli;0.338;0.00;2.20
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Chou-Fleur;0.534;0.00;3.15
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Baguette blanche;1;0.00;1.80
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Baguette blanche;1;0.00;1.80
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Baguette blanche;1;0.00;1.80
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Oeufs CH 10x53g+;1;0.00;4.95
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;MBud Sere Maigre 500g;1;0.00;1.20
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Boursin Kräuter;1;0.00;3.40
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Alfredo Mozzarella;1;0.29;1.16
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Alfredo Mozzarella;1;0.29;1.16
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Alfredo Mozzarella;1;0.29;1.16
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Alfredo Mozzarella;1;0.29;1.16
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Saucisse séchée;1;1.60;6.30
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Ice Tea citron 50cl;1;0.00;0.90
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Red Bull the white edi;1;0.00;1.70
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Red Bull the white edi;1;0.00;1.70
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Brochette Hussard;0.628;5.05;19.45
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Mixed Grill;1.548;13.15;51.85
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;MBud Grillsteak;0.616;0.00;12.25
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;MBud Lard a griller;0.213;0.00;4.15
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Havelaar Limes;1;0.00;2.45
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Max Hav sucre canne;1;0.00;2.10
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;MClass couscous 1kg;1;0.00;3.60
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Max os à mâcher 2pce;1;0.00;3.80
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Max os à mâcher 2pce;1;0.00;3.80
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;MBud eau minérale;1;0.00;0.25
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;MBud eau minérale;2;0.00;0.50
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Ballon 100pcs;1;0.00;5.95
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Papier cadeau;1;0.00;3.95
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Serpentins 3pcs;1;0.00;2.95
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Bombe de table;1;0.00;14.95
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Bestway gilet de sauv;1;0.00;19.95
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Milette Naturals Jun.;1;0.00;11.65
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Sable ensemble 6-pcs.;1;0.00;7.95
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Coquille de jeu blue;1;0.00;29.95
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;Arrondi en v. faveur;1;0.00;-0.04
+22.05.2021;09:29:33;MMM Marin-Centre;437;5673;CUM +3xPts.Tout Ass.;1;0;0
+20.05.2021;09:38:43;M Boudry;251;16;Cabas;1;0.00;0.30
+20.05.2021;09:38:43;M Boudry;251;16;Galactina Plasmon;1;0.00;3.90
+20.05.2021;09:38:43;M Boudry;251;16;Alnatura B. cér sem.;2;0.00;6.80
+20.05.2021;09:38:43;M Boudry;251;16;Batavia verte;1;0.35;1.40
+20.05.2021;09:38:43;M Boudry;251;16;Laitue pommée;1;0.35;1.40
+20.05.2021;09:38:43;M Boudry;251;16;Feuille chêne rouge;1;0.35;1.40
+20.05.2021;09:38:43;M Boudry;251;16;Caffè Latte Espresso;1;0.00;1.90
+20.05.2021;09:38:43;M Boudry;251;16;Stbucks Caram. Macchi.;1;0.00;2.25
+08.05.2021;09:33:12;M Cadolles;1;7787;MClass Surprise Maxi;1;0.00;19.95
+08.05.2021;09:33:12;M Cadolles;1;7787;Poivrons mélangés;1;0.00;2.70
+08.05.2021;09:33:12;M Cadolles;1;7787;Calla;1;0.00;9.90
+08.05.2021;09:33:12;M Cadolles;1;7787;Champignons;0.419;0.00;5.20
+08.05.2021;09:33:12;M Cadolles;1;7787;Max os à mâcher 2pce;1;0.00;3.80
+08.05.2021;09:33:12;M Cadolles;1;7787;Max os à mâcher 2pce;1;0.00;3.80
+08.05.2021;09:33:12;M Cadolles;1;7787;Baguette blanche;1;0.00;1.60
+08.05.2021;09:33:12;M Cadolles;1;7787;Aubergines;0.276;0.00;0.80
+08.05.2021;09:33:12;M Cadolles;1;7787;Baguette blanche;1;0.00;1.60
+08.05.2021;09:33:12;M Cadolles;1;7787;Laitue pommée;1;0.00;1.75
+08.05.2021;09:33:12;M Cadolles;1;7787;MClass flocons avoine;1;0.00;1.40
+08.05.2021;09:33:12;M Cadolles;1;7787;MBud Original Feta;1;0.00;2.50
+08.05.2021;09:33:12;M Cadolles;1;7787;Elmex Sensitive Plus;1;0.00;3.60
+08.05.2021;09:33:12;M Cadolles;1;7787;Sticks marinade;0.396;1.85;3.70
+08.05.2021;09:33:12;M Cadolles;1;7787;Cevapcici de boeuf;1;0.00;6.60
+08.05.2021;09:33:12;M Cadolles;1;7787;M-Bud brosse à dents;1;0.00;0.85
+08.05.2021;09:33:12;M Cadolles;1;7787;Elmex Sensitive Plus;1;0.00;3.60
+08.05.2021;09:33:12;M Cadolles;1;7787;Panadoro Prov. Mini;1;0.95;3.80
+08.05.2021;09:33:12;M Cadolles;1;7787;MClass corn strips 2x;1;0.00;4.55
+08.05.2021;09:33:12;M Cadolles;1;7787;Caffè Latte Cappuccino;1;0.00;1.90
+08.05.2021;09:33:12;M Cadolles;1;7787;Caffè Latte Macchiato;1;0.00;1.90
+08.05.2021;09:33:12;M Cadolles;1;7787;Guacamole mix;1;0.00;1.40
+08.05.2021;09:33:12;M Cadolles;1;7787;Saucisson sec herbes;1;0.00;9.50
+08.05.2021;09:33:12;M Cadolles;1;7787;Party gril;1;2.30;4.60
+08.05.2021;09:33:12;M Cadolles;1;7787;Festival grillades;1;4.20;9.80
+08.05.2021;09:33:12;M Cadolles;1;7787;Optipet SPOT ON chien;1;0.00;9.90
+08.05.2021;09:33:12;M Cadolles;1;7787;Bifidus Nature;1;0.00;0.55
+08.05.2021;09:33:12;M Cadolles;1;7787;Bifidus Nature;1;0.00;0.55
+08.05.2021;09:33:12;M Cadolles;1;7787;Courgettes;0.660;0.00;1.65
+08.05.2021;09:33:12;M Cadolles;1;7787;Avocat;1;0.00;2.20
+08.05.2021;09:33:12;M Cadolles;1;7787;Avocat;1;0.00;2.20
+08.05.2021;09:33:12;M Cadolles;1;7787;Red Bull blue edition;1;0.00;1.70
+08.05.2021;09:33:12;M Cadolles;1;7787;Red Bull blue edition;1;0.00;1.70
+08.05.2021;09:33:12;M Cadolles;1;7787;Maïs sucré AB duo;1.299;0.00;7.60
+08.05.2021;09:33:12;M Cadolles;1;7787;Concombre;1;0.00;1.10
+08.05.2021;09:33:12;M Cadolles;1;7787;Concombre;1;0.00;1.10
+08.05.2021;09:33:12;M Cadolles;1;7787;Laitue pommée;1;0.00;1.75
+08.05.2021;09:33:12;M Cadolles;1;7787;Collants pour dames;1;0.00;7.90
+08.05.2021;09:33:12;M Cadolles;1;7787;Cantadou raifort;1;0.00;2.95
+08.05.2021;09:33:12;M Cadolles;1;7787;Cantadou herbes;1;0.00;2.95
+08.05.2021;09:33:12;M Cadolles;1;7787;Steak de cou;0.972;0.00;14.10
+08.05.2021;09:33:12;M Cadolles;1;7787;Poire Bosc;0.903;0.00;2.80
+08.05.2021;09:33:12;M Cadolles;1;7787;CUM +3xPts.Tout Ass.;1;0;0
+07.05.2021;08:40:17;M Cadolles;1;7011;Cabas reutilisable;1;0.00;2.00
+07.05.2021;08:40:17;M Cadolles;1;7011;Valflora Drink HP;1;0.00;1.30
+07.05.2021;08:40:17;M Cadolles;1;7011;Valflora Drink HP;1;0.00;1.30
+07.05.2021;08:40:17;M Cadolles;1;7011;Kellogg's Spec. K choc;1;0.00;5.20
+07.05.2021;08:40:17;M Cadolles;1;7011;Endives;1;0.00;2.20
+07.05.2021;08:40:17;M Cadolles;1;7011;Caffè Latte Espresso;1;0.00;1.90
+07.05.2021;08:40:17;M Cadolles;1;7011;Laitue pommée;1;0.00;1.75
+07.05.2021;08:40:17;M Cadolles;1;7011;Laitue romaine;0.386;0.00;3.05
+07.05.2021;08:40:17;M Cadolles;1;7011;Concombre;1;0.00;1.10
+07.05.2021;08:40:17;M Cadolles;1;7011;Endives;1;0.00;2.20
+03.05.2021;18:25:29;M Portes-Rouges;254;88;Al Fez taboulé salade;1;0.00;5.95
+03.05.2021;18:25:29;M Portes-Rouges;254;88;Brocoli;0.639;0.00;1.95
+03.05.2021;18:25:29;M Portes-Rouges;254;88;Oignons frais blancs;1;0.00;2.70
+03.05.2021;18:25:29;M Portes-Rouges;254;88;Feuille chêne rouge;2;0.00;3.50
+03.05.2021;18:25:29;M Portes-Rouges;254;88;Bio Laitue romaine;0.637;1.72;3.95
+03.05.2021;18:25:29;M Portes-Rouges;254;88;Grill mi Cipo-Merguez;0.436;3.71;8.50
+03.05.2021;18:25:29;M Portes-Rouges;254;88;Brochette de poulet;0.272;2.04;8.15
+03.05.2021;18:25:29;M Portes-Rouges;254;88;Baguette blanche;1;0.00;1.60
+03.05.2021;18:25:29;M Portes-Rouges;254;88;Endives;2;0.00;4.40
+03.05.2021;18:25:29;M Portes-Rouges;254;88;Chou-Fleur;0.818;0.00;2.25
+03.05.2021;18:25:29;M Portes-Rouges;254;88;Celeri-pomme;0.628;0.35;1.35
+03.05.2021;18:25:29;M Portes-Rouges;254;88;Carottes;0.447;0.00;0.85
+03.05.2021;18:25:29;M Portes-Rouges;254;88;Tomates Rose de berne;0.582;0.00;2.85
+03.05.2021;18:25:29;M Portes-Rouges;254;88;Tomates charnues;1.316;0.00;6.45
+03.05.2021;18:25:29;M Portes-Rouges;254;88;Bio Havelaar bananes;1.315;0.00;3.55
+03.05.2021;18:25:29;M Portes-Rouges;254;88;MBud Jus d'orange;1;0.00;1.95
+03.05.2021;18:25:29;M Portes-Rouges;254;88;Valflora Demi-crème;2;0.00;2.60
+03.05.2021;18:25:29;M Portes-Rouges;254;88;Bifidus Nature;2;0.00;1.10
+03.05.2021;18:25:29;M Portes-Rouges;254;88;Tomme four. truffes;1;0.00;5.80
+03.05.2021;18:25:29;M Portes-Rouges;254;88;Spizzico affumicata;1;0.00;4.30
+03.05.2021;18:25:29;M Portes-Rouges;254;88;MClass Mozz. râpe;2;0.00;5.80
+03.05.2021;18:25:29;M Portes-Rouges;254;88;MBud Jambon;2;0.00;7.80
+03.05.2021;18:25:29;M Portes-Rouges;254;88;Pic & Croq 280g;1;0.00;4.00
+03.05.2021;18:25:29;M Portes-Rouges;254;88;MBud Champignons;1;0.00;2.00
+03.05.2021;18:25:29;M Portes-Rouges;254;88;Levure fraîche;1;0.00;0.25
+03.05.2021;18:25:29;M Portes-Rouges;254;88;MBud Salami de boeuf;1;0.00;3.00
+03.05.2021;18:25:29;M Portes-Rouges;254;88;MClass ratatouille;1;0.00;2.00
+03.05.2021;18:25:29;M Portes-Rouges;254;88;MBud carottes et pois;1;0.00;1.70
+03.05.2021;18:25:29;M Portes-Rouges;254;88;MBud champignons;3;0.00;3.00
+03.05.2021;18:25:29;M Portes-Rouges;254;88;Heinz ketchup 800ml;1;0.00;4.25
+03.05.2021;18:25:29;M Portes-Rouges;254;88;MBud fil. saumon 250g;2;0.00;9.60
+03.05.2021;18:25:29;M Portes-Rouges;254;88;MBud MSC bat. surimi;1;0.00;2.15
+03.05.2021;18:25:29;M Portes-Rouges;254;88;Hakle prop.traitante30;1;11.90;17.75
+03.05.2021;18:25:29;M Portes-Rouges;254;88;Max os à mâcher 2pce;3;0.00;11.40
+03.05.2021;18:25:29;M Portes-Rouges;254;88;MBud épinards crème;2;0.00;3.40
+03.05.2021;18:25:29;M Portes-Rouges;254;88;MClass aliment lapins;1;0.00;3.35
+03.05.2021;18:25:29;M Portes-Rouges;254;88;MClass copeaux de bois;1;0.00;3.60
+03.05.2021;18:25:29;M Portes-Rouges;254;88;MClass all in 1 Tabs;1;0.00;4.50
+03.05.2021;18:25:29;M Portes-Rouges;254;88;Alnatura B. cér sem.;1;0.00;3.40
+03.05.2021;18:25:29;M Portes-Rouges;254;88;Galactina Plasmon;1;0.00;3.90
+03.05.2021;18:25:29;M Portes-Rouges;254;88;Milette Naturals Jun.;1;0.00;11.65
+03.05.2021;18:25:29;M Portes-Rouges;254;88;Nestlé BEBA 3 Optip;1;0.00;21.95
+03.05.2021;18:25:29;M Portes-Rouges;254;88;Milette protege;1;0.00;2.95
+03.05.2021;18:25:29;M Portes-Rouges;254;88;CUMULUS BON 10.-;0;0;-10.00
+03.05.2021;18:25:29;M Portes-Rouges;254;88;CUMULUS BON 10.-;0;0;-10.00
+03.05.2021;18:25:29;M Portes-Rouges;254;88;CUMULUS BON 10.-;0;0;-10.00
+03.05.2021;18:25:29;M Portes-Rouges;254;88;CUMULUS BON 10.-;0;0;-10.00
+03.05.2021;18:25:29;M Portes-Rouges;254;88;CUMULUS BON 5.-;0;0;-5.00
+03.05.2021;18:25:29;M Portes-Rouges;254;88;CUMULUS BON 5.-;0;0;-5.00
+03.05.2021;18:25:29;M Portes-Rouges;254;88;CUMULUS BON 5.-;0;0;-5.00
+03.05.2021;18:25:29;M Portes-Rouges;254;88;CUMULUS BON 5.-;0;0;-5.00
+03.05.2021;18:25:29;M Portes-Rouges;254;88;CUM +3xPts.Tout Ass.;1;0;0
+29.04.2021;16:36:33;MM Hôpital;254;70;Cabas;1;0.00;0.30
+29.04.2021;16:36:33;MM Hôpital;254;70;Pizzetta capriccioca;1;0.00;2.20
+29.04.2021;16:36:33;MM Hôpital;254;70;Alnatura bouillie;1;0.00;5.95
+29.04.2021;16:36:33;MM Hôpital;254;70;Milette Naturals Maxi;1;0.00;11.85
+28.04.2021;17:35:04;MM Hôpital;258;197;Café de Paris Beurre;1;0.00;2.85
+28.04.2021;17:35:04;MM Hôpital;258;197;Cabas;1;0.00;0.30
+28.04.2021;17:35:04;MM Hôpital;258;197;Bio vin. pommes natur.;1;0.00;2.60
+28.04.2021;17:35:04;MM Hôpital;258;197;Rumpsteak;0.243;4.98;11.55
+28.04.2021;17:35:04;MM Hôpital;258;197;Rumpsteak;0.278;5.70;13.20
+28.04.2021;17:35:04;MM Hôpital;258;197;MClass pommes frites;1;0.00;5.90
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Sugar Donut 49g;1;0.00;0.90
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Boule de Berlin choco;1;0.00;1.60
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Petit pain au beurre;1;0.00;0.65
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;XXL Buns;1;0.00;2.50
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;MClass Toast&Sandwic;1;0.00;2.30
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;MBud Pommes;1;0.00;3.70
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Bio Citrons;1;2.60;1.00
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Poire Bosc;0.742;0.00;2.30
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Fraises;1;0.00;2.75
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Ananas;1;0.00;2.55
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;M-Budget Bananes;1.321;0.00;1.85
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Avocat;1;0.00;2.20
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Avocat;1;0.00;2.20
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Echalottes;1;0.00;2.90
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Ail;1;0.00;0.70
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Pomm.de terre ferme;2.000;0.00;3.80
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Brocoli;0.475;0.00;1.40
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Chou-Fleur;0.678;0.00;2.00
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Poireaux verts;0.333;0.00;1.30
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Courgettes;0.440;0.00;1.10
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Aubergines;0.260;0.00;0.65
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Bio Persil plat;1;0.00;1.40
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Scarole Lavata;1;0.00;3.20
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Concombre;1;0.20;0.80
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Fueuertuefel;0.169;0.75;3.30
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Monini classico 1l;1;2.72;10.88
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Combramo romarin;0.256;1.15;6.40
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Valflora Demi-crème;1;0.00;1.30
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Valflora Demi-crème;1;0.00;1.30
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Oeufs CH 10x53g+;1;0.00;4.95
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Lattesso Espresso;1;0.00;2.35
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Bifidus Nature;2;0.00;1.10
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Fromage fondu Gruyère;1;0.00;2.50
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Fromage fondu Gruyère;1;0.00;2.50
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Fondant au Chocolat;1;0.00;3.40
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Maxi fromage râpé;1;0.00;3.65
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Maxi fromage râpé;1;0.00;3.65
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Aperifrais Italienne;1;0.00;3.95
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;MBud Cottage Cheese;1;0.00;3.75
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Poulet epice en sachet;1.139;2.40;9.45
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;ASC Darne de saumon;0.413;0.00;13.20
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Bio thé vert jasmin;1;0.00;2.60
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;MClass cavatelli 500g;1;0.70;1.50
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;MClass cornettes extra;1;0.70;0.85
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;MClass grandes spiral.;1;0.70;1.90
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Trad.TS tagli. tricol.;1;0.00;3.95
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;MClass lasagne 500g;1;0.70;1.25
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Passata di pomodoro;1;0.00;2.10
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Passata di pomodoro;1;0.00;2.10
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Agnesi sauce à l'ail;1;0.00;2.95
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Thomy purée de tomates;1;0.00;2.65
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;MBud Jambon;1;0.00;3.90
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Jambon talon;0.237;0.00;4.50
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Jambon talon;0.221;0.00;4.20
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;MBud Tranche de poulet;0.649;0.00;8.95
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;MClass poulet/curry;1;0.00;5.30
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;MClass délices bologn.;1;0.00;5.30
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;MClass déli. fromage;1;0.00;5.20
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;MBud MSC fil. gourmet;1;0.00;2.50
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;MSC dos de merlu blanc;1;0.00;6.50
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;MBud épinards crème;1;0.00;1.70
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Pois mange-tout 360g;1;0.00;2.90
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Chop Suey;1;0.00;4.95
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;MClass copeaux de bois;1;0.00;3.60
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Max os à mâcher 2pce;1;0.00;3.80
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Max os à mâcher 2pce;1;0.00;3.80
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Asco a'petito gibier;1;0.00;1.95
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Sirop fraise 75cl;1;0.00;3.45
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;MBud rösti 1kg;1;0.00;2.90
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Nestlé BEBA 3 Optip;1;0.00;21.95
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Milette Naturals Maxi;1;0.00;11.85
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Bio Body bebe Lot de 4;1;0.00;19.95
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Red Bull 250ml;1;0.00;1.50
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Red Bull 250ml;1;0.00;1.50
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;MBud Sere Maigre 500g;1;0.00;1.20
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Tomates grappes;0.914;0.90;2.65
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Arrondi en v. faveur;1;0.00;-0.03
+24.04.2021;13:57:45;MMM Marin-Centre;436;1813;Coupon Bonus 2x;1;0;0
+17.04.2021;11:33:57;MMM Marin-Centre;436;1068;Pommes Gala;1.083;0.00;3.90
+17.04.2021;11:33:57;MMM Marin-Centre;436;1068;Poires Bosc;1.113;0.90;3.45
+17.04.2021;11:33:57;MMM Marin-Centre;436;1068;M-Budget Bananes;0.786;0.00;1.10
+17.04.2021;11:33:57;MMM Marin-Centre;436;1068;Chou-Fleur;0.780;0.00;2.30
+17.04.2021;11:33:57;MMM Marin-Centre;436;1068;Brocoli;0.345;0.00;1.00
+17.04.2021;11:33:57;MMM Marin-Centre;436;1068;Fenouil;0.640;0.00;1.60
+17.04.2021;11:33:57;MMM Marin-Centre;436;1068;MBud Champignons;1;0.00;2.00
+17.04.2021;11:33:57;MMM Marin-Centre;436;1068;Courgettes;0.538;0.40;1.05
+17.04.2021;11:33:57;MMM Marin-Centre;436;1068;Grana Padano 250g;1;2.43;2.42
+17.04.2021;11:33:57;MMM Marin-Centre;436;1068;Grana Padano 250g;1;2.43;2.42
+17.04.2021;11:33:57;MMM Marin-Centre;436;1068;Carottes;1;0.00;1.65
+17.04.2021;11:33:57;MMM Marin-Centre;436;1068;Brochettes de saucisse;0.438;0.00;11.60
+17.04.2021;11:33:57;MMM Marin-Centre;436;1068;Grillmi Cotelette;0.400;0.00;9.60
+17.04.2021;11:33:57;MMM Marin-Centre;436;1068;Max os à mâcher 2pce;1;0.00;3.80
+17.04.2021;11:33:57;MMM Marin-Centre;436;1068;Max os à mâcher 2pce;1;0.00;3.80
+17.04.2021;11:33:57;MMM Marin-Centre;436;1068;Max os à mâcher 2pce;1;0.00;3.80
+17.04.2021;11:33:57;MMM Marin-Centre;436;1068;Milette Naturals Maxi;1;0.00;11.85
+17.04.2021;11:33:57;MMM Marin-Centre;436;1068;Milette protege;1;0.00;2.95
+17.04.2021;11:33:57;MMM Marin-Centre;436;1068;Arrondi en v. faveur;1;0.00;-0.04
+17.04.2021;11:33:57;MMM Marin-Centre;436;1068;Coupon Bonus 2x;1;0;0
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Ice Tea pêche 50cl;1;0.00;0.90
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Bananes;0.739;0.00;1.70
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Pommes Envy;1.222;0.00;6.05
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Carottes;1;0.65;1.00
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Fenouil;1.100;0.00;2.75
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Concombre;1;0.00;1.10
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Courgettes;0.500;0.00;1.35
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Aubergines;0.288;0.00;0.85
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Brocoli;0.892;0.00;3.30
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Pomm.de terre ferme;0.684;0.00;1.30
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Laitue pommée;2;0.00;3.50
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Maxi fromage râpé;2;0.00;7.30
+10.04.2021;13:27:52;M Portes-Rouges;255;30;MBud Escalope de porc;0.684;0.00;15.40
+10.04.2021;13:27:52;M Portes-Rouges;255;30;MBud rösti 1kg;1;0.00;2.90
+10.04.2021;13:27:52;M Portes-Rouges;255;30;MBud chocolate cookies;1;0.00;1.50
+10.04.2021;13:27:52;M Portes-Rouges;255;30;MBud Jus d'orange;1;0.00;1.95
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Viande hachee mél;2;10.20;23.80
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Cordon bleu de porc;0.722;7.22;16.60
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Snacketti paprika 225g;1;2.95;2.90
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Fueuertuefel;0.208;0.00;5.00
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Edamer;0.290;0.00;4.35
+10.04.2021;13:27:52;M Portes-Rouges;255;30;oeufs plein air 6x53g+;1;0.00;2.95
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Apéricube Toqué;1;0.00;6.40
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Agnesi napoletana;1;0.00;2.80
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Agnesi tortiglioni;1;0.00;2.10
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Agnesi fusilli 500g;1;0.00;2.10
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Kellogg's Tresor dark;1;0.00;4.40
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Agnesi spaghetti N. 2;1;0.00;2.10
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Bâton Maréchal;1;2.20;8.70
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Saucisson sec herbes;1;0.00;9.50
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Al Fez taboulé salade;1;0.00;5.95
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Bon Chef asia noodle;1;0.00;2.20
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Knorr crème de courges;1;0.00;1.90
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Knorr sup. chanterelle;1;0.00;2.95
+10.04.2021;13:27:52;M Portes-Rouges;255;30;MClass rav. Nap. 1.2kg;1;0.00;3.95
+10.04.2021;13:27:52;M Portes-Rouges;255;30;MClass cornettes;1;0.00;1.45
+10.04.2021;13:27:52;M Portes-Rouges;255;30;MClass MSC sard. tom.;1;0.00;1.50
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Crème sandwich;1;0.00;3.10
+10.04.2021;13:27:52;M Portes-Rouges;255;30;MClass MSC thon rosé;2;0.00;3.80
+10.04.2021;13:27:52;M Portes-Rouges;255;30;MBud champignons;2;0.00;2.00
+10.04.2021;13:27:52;M Portes-Rouges;255;30;MClass haricots fins;1;0.00;2.40
+10.04.2021;13:27:52;M Portes-Rouges;255;30;MClass pois carottes;1;0.00;2.30
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Swiss corned beef 115g;1;0.00;2.80
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Malbuner fromage d'It.;1;0.00;1.50
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Malbuner rôti hache;1;0.00;1.80
+10.04.2021;13:27:52;M Portes-Rouges;255;30;MClass salade russe;1;0.00;2.30
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Guacamole dip;1;0.00;4.90
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Tortilla chips ranch;1;0.00;3.80
+10.04.2021;13:27:52;M Portes-Rouges;255;30;MBud haricots verts;1;0.00;1.50
+10.04.2021;13:27:52;M Portes-Rouges;255;30;MClass alim coch. inde;1;0.00;2.75
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Foin 1kg;1;0.00;2.20
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Total Color 5l;1;0.00;21.00
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Exelia Pink Pleasure 1;1;0.00;6.50
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Alnatura B. cér sem.;1;0.00;3.40
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Milette Naturals Maxi;1;0.00;11.85
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Nestlé BEBA 3 Optip;1;0.00;21.95
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Pastilles colle-photos;1;0.00;2.95
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Energizer Max AA 15+5;1;0.00;19.80
+10.04.2021;13:27:52;M Portes-Rouges;255;30;Coupon Bonus 5x;1;0;0
+01.04.2021;13:53:28;M Cadolles;2;5861;Cabas;1;0.00;0.30
+01.04.2021;13:53:28;M Cadolles;2;5861;MSC filets perche 500g;1;0.00;14.50
+01.04.2021;13:53:28;M Cadolles;2;5861;MClass Filet saumon;1;0.00;9.10
+01.04.2021;13:53:28;M Cadolles;2;5861;MClass ASC Fil. truite;1;0.00;2.90
+01.04.2021;13:53:28;M Cadolles;2;5861;MClass ASC Crevettes;1;0.00;3.50
+01.04.2021;13:53:28;M Cadolles;2;5861;Bifidus Nature;1;0.00;0.55
+01.04.2021;13:53:28;M Cadolles;2;5861;Bifidus Nature;1;0.00;0.55
+01.04.2021;13:53:28;M Cadolles;2;5861;Bifidus Nature;1;0.00;0.55
+01.04.2021;13:53:28;M Cadolles;2;5861;Bifidus Nature;1;0.00;0.55
+01.04.2021;13:53:28;M Cadolles;2;5861;MClass Séré demi-gras;1;0.00;1.45
+01.04.2021;13:53:28;M Cadolles;2;5861;MBud Baguette     300g;1;0.00;0.80
+01.04.2021;13:53:28;M Cadolles;2;5861;Red Bull blue edition;1;0.00;1.70
+01.04.2021;13:53:28;M Cadolles;2;5861;Red Bull blue edition;1;0.00;1.70
+01.04.2021;13:53:28;M Cadolles;2;5861;Lapin Timo lait 80g;1;0.00;2.50
+01.04.2021;13:53:28;M Cadolles;2;5861;Lapin Timo lait 80g;1;0.00;2.50
+01.04.2021;13:53:28;M Cadolles;2;5861;Lapin Timo lait 80g;1;0.00;2.50
+01.04.2021;13:53:28;M Cadolles;2;5861;Lapin Timo lait 80g;1;0.00;2.50
+01.04.2021;13:53:28;M Cadolles;2;5861;Lapin Timo lait 80g;1;0.00;2.50
+01.04.2021;13:53:28;M Cadolles;2;5861;Lapin Timo lait 80g;1;0.00;2.50
+01.04.2021;13:53:28;M Cadolles;2;5861;Lapin Timo lait 80g;1;0.00;2.50
+01.04.2021;13:53:28;M Cadolles;2;5861;Lapin Timo lait 80g;1;0.00;2.50
+31.03.2021;18:50:45;MMM Marin-Centre;305;7608;Plante fleurie;1;0.00;27.95
+31.03.2021;18:50:45;MMM Marin-Centre;305;7608;Florissimo 3_4;1;0.00;17.95
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Aspèrges vertes;1;1.95;5.95
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Thomy hollandaise;1;0.00;3.50
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Extra Haricots fins;1;1.00;2.30
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Pomm.de terre ferme;1;0.00;3.05
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Pomm.de terre ferme;1;0.00;3.05
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Pomm.de terre raclette;1;0.00;3.10
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Poireau coupe;0.213;0.00;0.95
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Poireau coupe;0.348;0.00;1.55
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Poireau coupe;0.236;0.00;1.05
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Tomates grappes;0.881;0.00;3.70
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;M-Drink 4x1l;1;0.00;5.40
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Thomynaise light;1;0.00;2.50
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Zweifel paprika XXL;1;0.00;4.60
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Zweifel nature XXL;1;0.00;4.60
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Heinz ketchup 500ml;1;0.00;2.95
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Floralp Beurre choix;1;0.00;3.25
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Oeufs CH 10x53g+;1;0.00;4.95
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Oeufs CH 10x53g+;1;0.00;4.95
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Crème de la Gruyère;1;0.00;4.35
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Crème de la Gruyère;3;0.00;13.05
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Meringues blanches;1;0.00;4.95
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Meringues blanches;2;0.00;9.90
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Bricelets Gruyère AOP;1;0.00;6.60
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Dlr flûtes au beurre;1;0.00;2.80
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Jambon cru Grisons;1;0.00;7.90
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Jambon cru 3 Châteaux;0.150;0.00;8.10
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Jambon cru Grisons;1;0.00;7.90
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Jambon cru 3 Châteaux;0.145;0.00;7.85
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Pommes Gala;1.939;0.00;6.40
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Echalotes;0.164;0.00;0.90
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Ail;1;0.00;0.70
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;MBud Pâte feuilletée;1;0.00;2.20
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Dressing French Pepper;1;0.00;4.20
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Fondue moitié-moitié;1;0.00;12.70
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Fondue moitié-moitié;1;0.00;12.70
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Fondue moitié-moitié;1;0.00;12.70
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Raccard ail;0.509;0.00;11.70
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Raclette Corbier;0.532;0.00;10.90
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Raccard Nature Mini;0.529;0.00;11.90
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Raccard Nature Mini;0.500;0.00;11.25
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Bleuchatel;0.250;1.40;5.00
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;L'Etivaz Fromage;0.243;1.35;5.10
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Tomme Fribourgeoise;1;0.00;2.65
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;St. Amouron;1;0.00;2.00
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Le Gruyère salé;0.758;0.00;14.40
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Tomme Vaudoise Crémier;1;0.00;2.00
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Tomme cumin;1;0.00;3.90
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Tilsiter doux;0.186;0.55;2.05
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;MClass Gendarmes fumes;1;0.00;5.55
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;MClass Gendarme fum.;1;0.00;6.95
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Rapelli Salametti;1;0.00;8.50
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Lard fumé;0.264;1.30;4.75
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Lard fumé;0.294;1.45;5.30
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Lard fumé;0.267;1.35;4.80
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Blévita au sésame;1;0.00;3.30
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Saucisson sec herbes;1;2.00;7.50
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Saucisson sec herbes;1;2.00;7.50
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;MBud chocolat au lait;1;0.00;2.55
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;MBud chocolat;1;0.00;1.95
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Ovomaltine 400g;1;0.00;6.90
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Meringues de Gruyère;1;0.00;4.50
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Ovo crunchy biscuit;1;0.00;3.70
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Ovo petit beurre 145g;1;0.00;3.70
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Nescafé finesse 100g;1;0.00;7.90
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Extra confiture fraise;1;0.00;1.95
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Extra confi. abricots;1;0.00;2.40
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Electuaire baies de su;1;0.00;3.40
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Farmer birchermüesli;1;0.00;4.80
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Farmer Croc chocolat;1;0.00;3.80
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;MClass frelitta bicolo;1;0.00;3.70
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;MClass cornettes grand;1;0.00;1.45
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;MClass cornettes grand;1;0.00;1.45
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;JuraSel sel de table;1;0.00;0.85
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Swiss Style nature;1;0.00;2.95
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;MBud Yogourt Nature;1;0.00;0.80
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Swiss Style 12er;1;0.00;3.75
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Condy concombre Suisse;1;0.00;4.50
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Condy cornichons 125g;1;0.00;1.40
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Crème sandwich;1;0.00;3.10
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Cenovis;1;0.00;3.80
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;MClass mayonnaise 265g;1;0.00;1.55
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Condy chanterelles;1;0.00;4.50
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Condy champignons;1;0.00;2.45
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;MClass epis de maïs;1;0.00;1.65
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Saucisson Tradition;0.363;0.00;7.80
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Saucisse aux choux;0.346;0.00;6.05
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Saucisse aux choux;0.346;0.00;6.05
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Lard à griller;0.149;0.85;2.90
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Lard à griller;0.141;0.80;2.75
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;MBud Pâté à la viande;1;0.00;8.00
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;MBud Cervelas;1;0.00;4.45
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;MBud Cervelas;1;0.00;4.45
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;MBud Jambon;1;0.00;3.90
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;MBud Jambon;1;0.00;3.90
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Jambon de derrière;0.159;0.00;4.05
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Jambon de derrière;0.159;0.00;4.05
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Jambon derriere;0.135;0.00;5.00
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;MBud Pic-Stic;1;0.00;4.30
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;MBud Pic-Stic;1;0.00;4.30
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Rivella thé vert 1.5l;1;0.00;2.50
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Rivella rouge 1.5l;1;0.00;2.50
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Ice Tea citron 4x1l;1;0.00;3.00
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Ice Tea watermelon 70g;1;0.00;0.80
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Ice Tea citron 6x33cl;1;0.00;2.35
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Ice Tea pêche 6x33cl;1;0.00;3.30
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Sirop fraise 75cl;1;0.00;3.45
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;MBud jus d'orange 1.5l;1;0.00;1.20
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;MBud jus d'orange 1.5l;1;0.00;1.20
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;MBud jus d'orange 1.5l;1;0.00;1.20
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Alnatura bouillie;1;0.00;5.95
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Nestlé BEBA 3 Optip;1;0.00;21.95
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Milette Naturals Maxi;1;0.00;11.85
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;MSC filets perche 500g;1;0.00;14.50
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;MSC filets perche 500g;1;0.00;14.50
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Galactina Plasmon;1;0.00;3.90
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Batavia verte;1;0.00;1.90
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;MBud vanille 2000ml;1;0.00;2.80
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Max os à mâcher 2pce;1;0.76;3.04
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Max os à mâcher 2pce;1;0.76;3.04
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;MClass Séré demi-gras;1;0.00;1.45
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Jean-Louis Tomme Cumin;1;0.00;2.00
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Mini Donuts sucré;1;0.00;3.90
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Crocchini rosmarino;1;0.00;2.80
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;MBud saumon fumé atl.;1;0.00;4.95
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Bio Chou-Fleur;1;0.00;3.90
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Cherrytomates grappes;1;0.00;2.95
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Poivrons mélangés;1;0.00;3.20
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;MBud Poires;1;0.00;2.50
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Pommes Pink Lady;0.816;0.00;4.20
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Petits Radis;1;0.00;1.40
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Carottes;0.658;0.00;1.25
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Carottes;0.658;0.00;1.25
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Canapés Nature;1;0.00;2.80
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;MClass couscous 1kg;1;0.00;3.60
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Bonnet bebe 2 pc;1;0.00;14.95
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Lunettes de soleil;1;0.00;39.90
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Arrondi en v. faveur;1;0.00;-0.01
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;CUM+5x Pts. Tout Ass.;1;0;0
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;CUM10x Pts Bouillies A;1;0;0
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;Punkte171;1;0;0
+31.03.2021;18:50:42;MMM Marin-Centre;436;9251;CUM30% Oignons;1;0;-0.27
+24.03.2021;18:41:25;M Portes-Rouges;254;60;Baguette blanche;1;0.00;1.60
+24.03.2021;18:41:25;M Portes-Rouges;254;60;Mangue;2;1.28;2.02
+24.03.2021;18:41:25;M Portes-Rouges;254;60;Poire Bosc;1.258;0.00;3.90
+24.03.2021;18:41:25;M Portes-Rouges;254;60;Pommes Gala;1.591;0.00;5.25
+24.03.2021;18:41:25;M Portes-Rouges;254;60;Echalottes;1;0.00;2.50
+24.03.2021;18:41:25;M Portes-Rouges;254;60;Bio Persil plat;1;0.00;1.40
+24.03.2021;18:41:25;M Portes-Rouges;254;60;Champignons bruns;1;0.00;2.20
+24.03.2021;18:41:25;M Portes-Rouges;254;60;Oignons frais blancs;1;0.00;1.40
+24.03.2021;18:41:25;M Portes-Rouges;254;60;Valflora Demi-crème;1;0.00;1.30
+24.03.2021;18:41:25;M Portes-Rouges;254;60;Bifidus Nature;2;0.00;1.10
+24.03.2021;18:41:25;M Portes-Rouges;254;60;Alfredo Mozzarella;1;0.00;2.55
+24.03.2021;18:41:25;M Portes-Rouges;254;60;Crème Fraîche herbes;1;0.00;2.70
+24.03.2021;18:41:25;M Portes-Rouges;254;60;Maxi fromage râpé;2;0.00;7.30
+24.03.2021;18:41:25;M Portes-Rouges;254;60;La Vache qui rit 400g;1;0.00;5.30
+24.03.2021;18:41:25;M Portes-Rouges;254;60;Buche Chavroux Affine;1;0.00;3.75
+24.03.2021;18:41:25;M Portes-Rouges;254;60;Chavroux;1;0.00;3.70
+24.03.2021;18:41:25;M Portes-Rouges;254;60;Oeufs CH 10x53g+;1;0.00;4.95
+24.03.2021;18:41:25;M Portes-Rouges;254;60;Valflora M-Drink UHT;1;0.00;1.35
+24.03.2021;18:41:25;M Portes-Rouges;254;60;Fromage fondu 200g;1;0.00;2.50
+24.03.2021;18:41:25;M Portes-Rouges;254;60;MClass tranches chilli;1;0.00;2.50
+24.03.2021;18:41:25;M Portes-Rouges;254;60;MBud Lardons fumés;2;0.00;5.50
+24.03.2021;18:41:25;M Portes-Rouges;254;60;Jambon a l'os cuit;0.149;1.85;3.80
+24.03.2021;18:41:25;M Portes-Rouges;254;60;MBud Jambon;2;0.00;7.80
+24.03.2021;18:41:25;M Portes-Rouges;254;60;MClass MSC thon rosé;1;0.00;1.90
+24.03.2021;18:41:25;M Portes-Rouges;254;60;Jus de citron intens.;1;0.00;1.10
+24.03.2021;18:41:25;M Portes-Rouges;254;60;MBud saumon fumé atl.;1;0.00;4.95
+24.03.2021;18:41:25;M Portes-Rouges;254;60;Guacamole mix;1;0.00;1.40
+24.03.2021;18:41:25;M Portes-Rouges;254;60;Tortilla chips ranch;1;0.00;3.80
+24.03.2021;18:41:25;M Portes-Rouges;254;60;MBud fil. saumon 250g;2;0.00;9.60
+24.03.2021;18:41:25;M Portes-Rouges;254;60;Laitue pom. rouge 160g;1;0.00;2.80
+24.03.2021;18:41:25;M Portes-Rouges;254;60;M-Drink UHT Brik 12x1l;1;0.00;12.95
+24.03.2021;18:41:25;M Portes-Rouges;254;60;MClass crème raifort;1;0.00;2.65
+24.03.2021;18:41:25;M Portes-Rouges;254;60;Max os à mâcher 2pce;4;0.00;15.20
+24.03.2021;18:41:25;M Portes-Rouges;254;60;MClass aliment lapins;1;0.00;3.35
+24.03.2021;18:41:25;M Portes-Rouges;254;60;Nestlé BEBA 3 Optip;1;0.00;21.95
+24.03.2021;18:41:25;M Portes-Rouges;254;60;Galactina Plasmon;1;0.00;3.90
+24.03.2021;18:41:25;M Portes-Rouges;254;60;Milette Naturals Maxi;1;0.00;11.85
+24.03.2021;18:41:25;M Portes-Rouges;254;60;Alnatura B. cér sem.;1;0.00;3.40
+24.03.2021;18:41:25;M Portes-Rouges;254;60;CUM+2x Pts. Tout Ass.;1;0;0
+24.03.2021;18:41:25;M Portes-Rouges;254;60;CUM20x Pts La vache qui rit;1;0;0
+24.03.2021;18:41:25;M Portes-Rouges;254;60;CUM30% Fromages râpés;1;0;-2.19
+22.03.2021;17:22:09;MM Hôpital;252;150;Energizer MAX AA/LR6 8;1;0.00;14.90
+22.03.2021;17:22:09;MM Hôpital;252;150;Salade Iceberg;1;0.00;1.30
+22.03.2021;17:22:09;MM Hôpital;252;150;Alnatura bouillie;1;0.00;5.95
+22.03.2021;17:22:09;MM Hôpital;252;150;Milette Naturals Maxi;1;0.00;11.85
+22.03.2021;17:22:09;MM Hôpital;252;150;Handymatic Rinçage-éc.;1;0.00;3.50
+22.03.2021;17:22:09;MM Hôpital;252;150;Candida Ortho brosse;2;0.00;6.60
+22.03.2021;17:22:09;MM Hôpital;252;150;Piadina Romagnola;1;0.00;3.30
+22.03.2021;17:22:09;MM Hôpital;252;150;MBud saumon fumé atl.;1;0.00;4.95
+22.03.2021;17:22:09;MM Hôpital;252;150;Crème Fraîche herbes;1;0.00;2.70
+22.03.2021;17:22:09;MM Hôpital;252;150;Cantadou herbes;1;0.00;2.95
+15.03.2021;16:13:55;M Portes-Rouges;254;48;Red Bull 250ml;2;0.00;3.00
+15.03.2021;16:13:55;M Portes-Rouges;254;48;Lattesso Espresso;1;0.00;2.35
+15.03.2021;16:13:55;M Portes-Rouges;254;48;Lattesso Macchiato 250;1;0.00;2.35
+15.03.2021;16:13:55;M Portes-Rouges;254;48;Oeufs CH 10x53g+;1;0.00;4.95
+15.03.2021;16:13:55;M Portes-Rouges;254;48;Condy chanterelles;1;0.00;4.50
+15.03.2021;16:13:55;M Portes-Rouges;254;48;Condy champignons;1;0.00;2.90
+15.03.2021;16:13:55;M Portes-Rouges;254;48;Rôti filet tessinois;0.567;6.45;13.10
+15.03.2021;16:13:55;M Portes-Rouges;254;48;MBud champignons;3;0.00;3.00
+15.03.2021;16:13:55;M Portes-Rouges;254;48;MClass pommes frites;1;0.00;2.95
+15.03.2021;16:13:55;M Portes-Rouges;254;48;Asco a'petito volaille;1;0.00;1.95
+15.03.2021;16:13:55;M Portes-Rouges;254;48;Asco a'petito boeuf;1;0.00;1.95
+15.03.2021;16:13:55;M Portes-Rouges;254;48;Milette Naturals Maxi;1;0.00;11.85
+15.03.2021;16:13:55;M Portes-Rouges;254;48;Cabas;1;0.00;0.30
+15.03.2021;16:13:55;M Portes-Rouges;254;48;Coupon Bonus 2x;1;0;0
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Croissant jambon;1;0.00;1.60
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Croissant jambon;1;0.00;1.60
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;MBud Baguette     300g;1;0.00;0.80
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;MClass Toast&Sandwic;1;0.00;1.10
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Oignons frais blancs;1;0.00;1.40
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Mangue;1;0.00;1.65
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Kiwis;1;0.00;2.65
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Carottes;1;0.00;1.65
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Prunes rouges;0.414;0.00;1.45
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Pomm.de terre ferme;1.438;0.00;2.30
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Poireaux verts;0.288;0.00;1.50
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;MBud Poires;1;0.00;2.50
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Pommes Pink Lady;0.777;0.00;4.00
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Feuille chêne rouge;1;0.00;1.65
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Endives;1;0.00;2.20
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Valflora Demi-crème;1;0.00;1.30
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Valflora Demi-crème;1;0.00;1.30
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Aspèrges blanches;1;2.50;7.40
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;M-Drink 4x1l;1;0.00;5.40
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;M-Drink 4x1l;1;0.00;5.40
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;MClass Choco-Drink 1L;1;0.00;1.50
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;MClass Yogourt Nature;2;0.00;0.90
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;MClass Yogourt Nature;2;0.00;0.90
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Fromage fondu Gruyère;1;0.00;2.50
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Raccard tranches ail;1;0.00;6.20
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Raccard tranch. poivre;1;0.00;6.20
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Raccard 10 tranches;0.404;0.00;9.30
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Cordon bleu de porc;0.777;0.00;15.15
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;MBud café en grains;1;0.00;4.50
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;MBud café en grains;1;0.00;4.50
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;MClass MSC Colin;1;0.00;4.95
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;TS farine fleur;1;0.00;1.75
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Sucre fin cristallisé;1;0.00;1.00
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;MBud Lardons fumés;1;0.00;2.75
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;MBud Lard a griller;0.175;0.00;3.40
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;MBud Jambon;1;0.00;3.90
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;MBud Pic-Stic;1;0.00;4.30
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Sirop ice tea pêche;1;0.90;2.70
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Foin 1kg;1;0.00;2.20
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;MClass copeaux de bois;1;0.00;3.60
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;MClass aliment lapins;1;0.00;3.35
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Max os à mâcher 2pce;1;0.00;3.80
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Max os à mâcher 2pce;1;0.00;3.80
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Max os à mâcher 2pce;1;0.00;3.80
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Max os à mâcher 2pce;1;0.00;3.80
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Sirop fraise 75cl;1;0.87;2.58
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;MClass all in 1 Tabs;1;0.00;4.50
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Soft Deluxe Ultra 24er;1;0.00;12.00
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Nestlé BEBA 2 Optip;1;0.00;21.95
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Trendy Fashion;1;0.00;3.00
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Ornement Cheveux;1;0.00;3.00
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Alnatura B. cér sem.;1;0.00;3.40
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Red Bull 250ml;1;0.00;1.50
+13.03.2021;10:57:56;MMM Marin-Centre;436;7358;Arrondi en v. faveur;1;0.00;-0.03
+10.03.2021;12:29:18;M Portes-Rouges;256;52;Fraises;1;0.00;3.95
+10.03.2021;12:29:18;M Portes-Rouges;256;52;Celeri-pomme;0.692;0.52;1.35
+10.03.2021;12:29:18;M Portes-Rouges;256;52;Courgettes;0.531;0.58;0.85
+10.03.2021;12:29:18;M Portes-Rouges;256;52;Haricots;1;0.00;2.75
+10.03.2021;12:29:18;M Portes-Rouges;256;52;Chou-Fleur;0.678;0.00;2.00
+10.03.2021;12:29:18;M Portes-Rouges;256;52;Brocoli;0.281;0.00;0.80
+10.03.2021;12:29:18;M Portes-Rouges;256;52;Pommes Pink Lady;0.806;0.00;4.15
+10.03.2021;12:29:18;M Portes-Rouges;256;52;Fenouil;0.512;0.00;1.10
+10.03.2021;12:29:18;M Portes-Rouges;256;52;Red Bull 250ml;2;0.00;3.00
+10.03.2021;12:29:18;M Portes-Rouges;256;52;Gingembre;0.286;0.00;1.70
+10.03.2021;12:29:18;M Portes-Rouges;256;52;Patates douces;1;0.00;2.20
+10.03.2021;12:29:18;M Portes-Rouges;256;52;MClass Fricandeaux;0.574;5.74;13.20
+10.03.2021;12:29:18;M Portes-Rouges;256;52;Trolli tropic o's;1;0.00;2.45
+10.03.2021;12:29:18;M Portes-Rouges;256;52;Primella Rondelles de;1;0.00;1.90
+10.03.2021;12:29:18;M Portes-Rouges;256;52;Milette Naturals Maxi;1;0.00;11.85
+10.03.2021;12:29:18;M Portes-Rouges;256;52;Milette protege;1;0.00;2.95
+10.03.2021;12:29:18;M Portes-Rouges;256;52;Cabas reutilisable;1;0.00;2.00
+10.03.2021;12:29:18;M Portes-Rouges;256;52;CUMULUS BON 5.-;0;0;-5.00
+10.03.2021;12:29:18;M Portes-Rouges;256;52;CUMULUS BON 5.-;0;0;-5.00
+10.03.2021;12:29:18;M Portes-Rouges;256;52;Coupon Bonus 2x;1;0;0
+10.03.2021;12:29:18;M Portes-Rouges;256;52;CUM +3xPts.Tout Ass.;1;0;0
+03.03.2021;15:20:43;M Portes-Rouges;254;36;Mibébé bouillie 5 céré;1;0.00;4.50
+03.03.2021;15:20:43;M Portes-Rouges;254;36;Milette Naturals Maxi;1;0.00;11.85
+03.03.2021;15:20:43;M Portes-Rouges;254;36;CUMULUS BON 10.-;0;0;-10.00
+03.03.2021;15:20:43;M Portes-Rouges;254;36;CUMULUS BON 5.-;0;0;-5.00
+03.03.2021;15:20:43;M Portes-Rouges;254;36;Coupon Bonus 2x;1;0;0
+03.03.2021;10:39:58;MM Hôpital;005;119;Cabas reutilisable;1;0.00;2.00
+03.03.2021;10:39:58;MM Hôpital;005;119;Savoiardi classico;2;0.00;2.80
+03.03.2021;10:39:58;MM Hôpital;005;119;Laitue pom. rouge 160g;1;0.00;2.80
+03.03.2021;10:39:58;MM Hôpital;005;119;M-Budget Mozzarella;1;0.00;2.05
+03.03.2021;10:39:58;MM Hôpital;005;119;MBud Jambon;1;0.00;3.90
+03.03.2021;10:39:58;MM Hôpital;005;119;MBud fil. saumon 250g;1;0.00;4.80
+03.03.2021;10:39:58;MM Hôpital;005;119;MClass Coquilles;0.152;1.89;7.50
+03.03.2021;10:39:58;MM Hôpital;005;119;Chips de crevettes 80g;1;0.00;2.15
+03.03.2021;10:39:58;MM Hôpital;005;119;MSC dos de merlu blanc;1;0.00;6.50
+03.03.2021;10:39:58;MM Hôpital;005;119;Saitaku sushi nori;2;0.00;6.60
+03.03.2021;10:39:58;MM Hôpital;005;119;Tomates grappes;1.322;0.00;3.90
+03.03.2021;10:39:58;MM Hôpital;005;119;Cabas;1;0.00;0.30
+03.03.2021;10:39:58;MM Hôpital;005;119;Pousses d'oignons;1;0.00;2.30
+03.03.2021;10:39:58;MM Hôpital;005;119;Avocat;2;0.00;3.90
+03.03.2021;10:39:58;MM Hôpital;005;119;MClass ASC Crevettes;0.269;0.00;15.35
+03.03.2021;10:39:58;MM Hôpital;005;119;MBud MSC bat. surimi;1;0.00;2.85
+03.03.2021;10:39:58;MM Hôpital;005;119;MClass Coquilles;0.166;2.07;8.20
+03.03.2021;10:39:58;MM Hôpital;005;119;MClass Pâte feullete;2;0.00;2.70
+03.03.2021;10:39:58;MM Hôpital;005;119;Saitaku sushi riz;1;0.00;3.30
+03.03.2021;10:39:58;MM Hôpital;005;119;Bio Citron;1;0.00;0.65
+03.03.2021;10:39:58;MM Hôpital;005;119;MClass MSC Crev. saumu;1;0.00;2.90
+03.03.2021;10:39:58;MM Hôpital;005;119;MBud Pommes;1;0.00;3.95
+03.03.2021;10:39:58;MM Hôpital;005;119;Jambon talon;0.163;0.00;3.10
+03.03.2021;10:39:58;MM Hôpital;005;119;Jambon talon;0.216;0.00;4.10
+03.03.2021;10:39:58;MM Hôpital;005;119;Havelaar Limes;1;0.00;0.60
+03.03.2021;10:39:58;MM Hôpital;005;119;Croissant jambon;1;0.00;1.60
+03.03.2021;10:39:58;MM Hôpital;005;119;Filet mignon porc;0.389;0.00;15.35
+03.03.2021;10:39:58;MM Hôpital;005;119;Carottes;0.447;0.00;0.85
+03.03.2021;10:39:58;MM Hôpital;005;119;Caffè Latte Macchiato;1;0.00;1.90
+03.03.2021;10:39:58;MM Hôpital;005;119;Concombre;2;0.80;1.80
+03.03.2021;10:39:58;MM Hôpital;005;119;Caffè Latte Cappuccino;1;0.00;1.90
+03.03.2021;10:39:58;MM Hôpital;005;119;Bio Citron;2;0.00;1.30
+03.03.2021;10:39:58;MM Hôpital;005;119;Croissant jambon;1;0.00;1.60
+03.03.2021;10:39:58;MM Hôpital;005;119;Mascarpone Galbani;1;0.00;6.10
+03.03.2021;10:39:58;MM Hôpital;005;119;MBud Sere Maigre 500g;1;0.00;1.20
+27.02.2021;12:10:16;M Portes-Rouges;254;38;M-Budget Bananes;1.107;0.00;1.55
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Ramequins;2;0.00;3.20
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Oeufs plein air 15x53g;1;0.00;5.90
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Ananas;1;0.00;2.55
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Mangue;1;0.00;1.65
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Poireaux verts;0.269;0.00;1.40
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Brocoli;0.281;0.00;0.80
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Piments rouges;0.036;0.00;0.40
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Chou-Fleur;0.593;0.00;1.75
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Oignons frais blancs;1;0.00;1.40
+27.02.2021;12:10:16;M Portes-Rouges;254;38;MBud Champignons;1;0.00;2.00
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Extra Oranges blondes;1.457;0.66;2.55
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Mifloc pure pom. terre;1;0.00;4.55
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Chicorée frisée;1;0.00;2.90
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Maxi fromage râpé;3;0.00;10.95
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Orangensaft 2l;1;3.70;3.70
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Red Bull 250ml;1;0.00;1.50
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Lattesso Espresso;1;0.00;2.35
+27.02.2021;12:10:16;M Portes-Rouges;254;38;TS farine fleur 4x1kg;1;2.10;4.90
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Steak citronné;0.266;4.26;6.25
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Fueuertuefel;0.170;0.00;3.90
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Boudin;0.310;0.00;3.10
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Boudin;0.315;0.00;3.15
+27.02.2021;12:10:16;M Portes-Rouges;254;38;M-Drink 4x1l;2;1.70;9.10
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Bio Mister Rice Jasmin;1;0.00;3.80
+27.02.2021;12:10:16;M Portes-Rouges;254;38;MClass bolognese sauce;1;0.00;1.10
+27.02.2021;12:10:16;M Portes-Rouges;254;38;MClass all'arrabbiata;1;0.00;1.00
+27.02.2021;12:10:16;M Portes-Rouges;254;38;MClass escargots 500g;1;0.00;1.80
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Couscous ricci;1;0.00;1.80
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Bio aha! MH quinoa tri;1;0.00;4.95
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Knorr liant sauce;1;0.00;3.20
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Bon Chef bouill. poule;1;0.00;4.40
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Ebly tendre blé;1;0.00;3.40
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Saitaku vinaigre riz;1;0.00;3.30
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Steak de cheval;0.193;0.00;5.60
+27.02.2021;12:10:16;M Portes-Rouges;254;38;MClass ASC Crevettes;1;0.00;3.50
+27.02.2021;12:10:16;M Portes-Rouges;254;38;MClass Filet saumon;1;5.50;12.70
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Truite blanche Suisse;0.288;0.00;8.65
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Truite blanche Suisse;0.277;0.00;8.30
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Crème Fraîche herbes;1;0.00;2.70
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Valflora Demi-crème;1;0.00;1.35
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Citrons non traités;1;0.00;0.45
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Ciboulette;1;0.00;1.10
+27.02.2021;12:10:16;M Portes-Rouges;254;38;La Vache Qui Rit 535g;1;2.60;5.15
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Spizzico affumicata;1;0.00;4.30
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Zweifel Snacketti 2x;1;0.95;2.95
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Tradition moutarde;1;0.00;2.60
+27.02.2021;12:10:16;M Portes-Rouges;254;38;MBud délice de poulet;1;0.00;11.20
+27.02.2021;12:10:16;M Portes-Rouges;254;38;TWIST RECYCLING 16ER;1;4.80;9.60
+27.02.2021;12:10:16;M Portes-Rouges;254;38;MClass délices champi.;1;0.00;5.20
+27.02.2021;12:10:16;M Portes-Rouges;254;38;MClass déli. fromage;1;0.00;5.20
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Max os à mâcher 2pce;3;0.00;11.40
+27.02.2021;12:10:16;M Portes-Rouges;254;38;MClass aliment lapins;1;0.00;3.35
+27.02.2021;12:10:16;M Portes-Rouges;254;38;MClass copeaux de bois;1;0.00;3.60
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Sirop fraise 75cl;1;0.00;3.45
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Party cacahuètes;1;0.00;2.25
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Party crunchy mais;1;0.00;2.90
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Nestlé BEBA 2 Optip;1;0.00;21.95
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Galactina Plasmon;1;0.00;3.90
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Rexona Deo Creme Max;1;0.00;5.20
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Milette Naturals Maxi;1;0.00;11.85
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Mibébé bouillie 5 céré;1;0.00;4.50
+27.02.2021;12:10:16;M Portes-Rouges;254;38;Hipp the fenouil;1;0.00;5.40
+27.02.2021;12:10:16;M Portes-Rouges;254;38;MClass Yogourt Nature;2;0.00;0.90
+20.02.2021;10:25:28;M Portes-Rouges;255;16;MBud Pommes;1;0.00;3.95
+20.02.2021;10:25:28;M Portes-Rouges;255;16;MBud Poires;1;0.00;2.50
+20.02.2021;10:25:28;M Portes-Rouges;255;16;Fenouil;0.977;0.00;2.10
+20.02.2021;10:25:28;M Portes-Rouges;255;16;Le Jura;0.221;0.00;5.30
+20.02.2021;10:25:28;M Portes-Rouges;255;16;MBud Jambon;1;0.00;3.90
+20.02.2021;10:25:28;M Portes-Rouges;255;16;MBud Charcuterie trio;0.213;0.00;2.65
+20.02.2021;10:25:28;M Portes-Rouges;255;16;Jumpy's paprika 2x100g;1;1.05;3.95
+20.02.2021;10:25:28;M Portes-Rouges;255;16;Ice Tea citron 50cl;1;0.00;0.90
+20.02.2021;10:25:28;M Portes-Rouges;255;16;Ice Tea pêche 50cl;1;0.00;0.90
+20.02.2021;10:25:28;M Portes-Rouges;255;16;Nestlé BEBA 2 Optip;1;0.00;21.95
+20.02.2021;10:25:28;M Portes-Rouges;255;16;Milette protege;1;0.00;2.95
+20.02.2021;10:25:28;M Portes-Rouges;255;16;Alnatura B. cér sem.;1;0.00;3.40
+20.02.2021;10:25:28;M Portes-Rouges;255;16;Coupon Bonus 2x;1;0;0
+16.02.2021;17:46:23;M Portes-Rouges;256;90;Lait noix de coco;2;1.00;4.00
+16.02.2021;17:46:23;M Portes-Rouges;256;90;Nestlé BEBA 2 Optip;1;0.00;21.95
+13.02.2021;11:02:52;M Portes-Rouges;254;24;Croissant jambon;2;0.00;3.20
+13.02.2021;11:02:52;M Portes-Rouges;254;24;MBud Poires;1;0.00;2.50
+13.02.2021;11:02:52;M Portes-Rouges;254;24;Ciboulette;1;0.00;1.10
+13.02.2021;11:02:52;M Portes-Rouges;254;24;Echalottes;1;0.00;2.10
+13.02.2021;11:02:52;M Portes-Rouges;254;24;Carottes;1;0.45;1.20
+13.02.2021;11:02:52;M Portes-Rouges;254;24;Bio Persil plat;1;0.00;1.40
+13.02.2021;11:02:52;M Portes-Rouges;254;24;Scarole Lavata;1;0.00;3.20
+13.02.2021;11:02:52;M Portes-Rouges;254;24;Celeri-pomme;0.545;0.38;1.20
+13.02.2021;11:02:52;M Portes-Rouges;254;24;Ail;2;0.00;1.20
+13.02.2021;11:02:52;M Portes-Rouges;254;24;Brocoli;0.456;0.00;1.30
+13.02.2021;11:02:52;M Portes-Rouges;254;24;Chou-Fleur;0.903;0.00;2.80
+13.02.2021;11:02:52;M Portes-Rouges;254;24;Maxi fromage râpé;2;0.00;7.30
+13.02.2021;11:02:52;M Portes-Rouges;254;24;Buns au sésame;1;0.00;1.70
+13.02.2021;11:02:52;M Portes-Rouges;254;24;MBud Baguette     300g;1;0.00;0.80
+13.02.2021;11:02:52;M Portes-Rouges;254;24;Valflora Demi-crème;1;0.00;1.35
+13.02.2021;11:02:52;M Portes-Rouges;254;24;MClass becs plum. 750g;1;0.00;1.80
+13.02.2021;11:02:52;M Portes-Rouges;254;24;Spizzico affumicata;1;0.00;4.30
+13.02.2021;11:02:52;M Portes-Rouges;254;24;Gruyère alpage;0.252;1.39;5.55
+13.02.2021;11:02:52;M Portes-Rouges;254;24;Grana Padano 250g;2;1.46;8.24
+13.02.2021;11:02:52;M Portes-Rouges;254;24;Creme pour cuisiner;1;0.00;1.50
+13.02.2021;11:02:52;M Portes-Rouges;254;24;oeufs plein air 6x53g+;1;0.00;2.95
+13.02.2021;11:02:52;M Portes-Rouges;254;24;Kellogg's Choco Krisp.;1;0.00;5.40
+13.02.2021;11:02:52;M Portes-Rouges;254;24;MClass choco cereal;1;0.00;4.90
+13.02.2021;11:02:52;M Portes-Rouges;254;24;MClass Viande hachée;1;0.00;10.50
+13.02.2021;11:02:52;M Portes-Rouges;254;24;Filet de thon;0.236;3.30;11.80
+13.02.2021;11:02:52;M Portes-Rouges;254;24;Filet de thon;0.200;2.80;10.00
+13.02.2021;11:02:52;M Portes-Rouges;254;24;Poulet epice en sachet;1.192;0.00;12.40
+13.02.2021;11:02:52;M Portes-Rouges;254;24;Fromage fondu Gruyère;2;0.00;5.00
+13.02.2021;11:02:52;M Portes-Rouges;254;24;Alnatura huile de coco;1;0.00;3.90
+13.02.2021;11:02:52;M Portes-Rouges;254;24;Max os à mâcher 2pce;3;0.00;11.40
+13.02.2021;11:02:52;M Portes-Rouges;254;24;MClass aliment lapins;1;0.00;3.35
+13.02.2021;11:02:52;M Portes-Rouges;254;24;Asco a'petito volaille;1;0.00;1.95
+13.02.2021;11:02:52;M Portes-Rouges;254;24;Asco a'petito gibier;1;0.00;1.95
+13.02.2021;11:02:52;M Portes-Rouges;254;24;Alnatura B. cér sem.;1;0.00;3.40
+13.02.2021;11:02:52;M Portes-Rouges;254;24;Milette Naturals Maxi;1;0.00;11.85
+13.02.2021;11:02:52;M Portes-Rouges;254;24;MB cottons-tiges 300;1;0.00;0.90
+13.02.2021;11:02:52;M Portes-Rouges;254;24;CUM10x Pts Max;1;0;0
+12.02.2021;11:59:38;MMM Marin-Centre;438;5991;Hot Panini Ham Cheese;1;0.00;6.90
+12.02.2021;11:59:38;MMM Marin-Centre;438;5991;Red Bull the white edi;1;0.00;1.70
+12.02.2021;11:59:38;MMM Marin-Centre;438;5991;Red Bull blue edition;1;0.00;1.70
+12.02.2021;11:59:38;MMM Marin-Centre;438;5991;Logitech MK540 Advance;1;0.00;84.90
+06.02.2021;13:50:12;M Cadolles;1;4222;Cabas;1;0.00;0.30
+06.02.2021;13:50:12;M Cadolles;1;4222;Cabas;1;0.00;0.30
+06.02.2021;13:50:12;M Cadolles;1;4222;MBud Pommes;1;0.00;3.95
+06.02.2021;13:50:12;M Cadolles;1;4222;Milette Maxi;1;0.00;7.70
+06.02.2021;13:50:12;M Cadolles;1;4222;Red Bull 250ml;1;0.00;1.70
+06.02.2021;13:50:12;M Cadolles;1;4222;Ice Tea citron 50cl;1;0.00;0.90
+06.02.2021;13:50:12;M Cadolles;1;4222;MClass huil tournesol;1;0.00;3.90
+06.02.2021;13:50:12;M Cadolles;1;4222;Nestlé BEBA 2 Optip;1;0.00;21.95
+06.02.2021;13:50:12;M Cadolles;1;4222;MBud jus d'orange 1.5l;1;0.00;1.20
+06.02.2021;13:50:12;M Cadolles;1;4222;MBud espresso grains;1;0.00;4.50
+06.02.2021;13:50:12;M Cadolles;1;4222;MClass pommes frites;1;0.00;3.90
+06.02.2021;13:50:12;M Cadolles;1;4222;MBud Sere Maigre 500g;1;0.00;1.20
+06.02.2021;13:50:12;M Cadolles;1;4222;Charbonnade;0.235;1.65;6.35
+06.02.2021;13:50:12;M Cadolles;1;4222;Coquerli feuillete;1;0.00;2.40
+06.02.2021;13:50:12;M Cadolles;1;4222;Pizzetta capriccioca;1;0.00;2.20
+06.02.2021;13:50:12;M Cadolles;1;4222;Oranges blondes;1;0.00;3.40
+06.02.2021;13:50:12;M Cadolles;1;4222;Rumpsteak;0.284;0.00;13.35
+06.02.2021;13:50:12;M Cadolles;1;4222;Steak cheval;0.126;0.75;2.90
+06.02.2021;13:50:12;M Cadolles;1;4222;Poire Bosc;1.388;0.90;3.40
+06.02.2021;13:50:12;M Cadolles;1;4222;MBud Tranche de poulet;0.645;0.00;8.90
+06.02.2021;13:50:12;M Cadolles;1;4222;Coupon Bonus 2x;1;0;0
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Nestlé Beba Optopro 2;1;0.00;25.00
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Milette Maxi;1;0.00;7.70
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Durabase AA 12p.;1;0.00;9.95
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Twist Classic;1;0.00;3.20
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;MClass aliment lapins;1;0.00;3.35
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Foin 1kg;1;0.00;2.20
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Max os à mâcher 2pce;1;0.95;2.85
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Max os à mâcher 2pce;1;0.95;2.85
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Max os à mâcher 2pce;1;0.95;2.85
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Asco a'petito jambon;1;0.49;1.46
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;MClass copeaux de bois;1;0.00;3.60
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Couscous ricci;1;0.00;1.80
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;MBud haricots verts;1;0.00;1.50
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;MBud carottes et pois;1;0.00;1.70
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;MBud champignons;1;0.00;1.00
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;MBud champignons;1;0.00;1.00
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;MBud champignons;1;0.00;1.00
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;MBud champignons;1;0.00;1.00
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Bon Chef soupe lentil.;1;0.00;2.20
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Bon Chef asia noodle;1;0.00;2.20
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Bon Chef tomates;1;0.00;1.60
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Bon Chef creme bolets;1;0.00;1.50
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Bon Chef petits pois;1;0.00;1.70
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Heinz ketchup 700g;1;0.00;2.80
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;MBud mayonnaise;1;0.00;1.00
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;MBud moutarde;1;0.00;0.75
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;MBud cacahuètes;1;0.00;3.20
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Mini flûtes beurre;1;0.00;3.10
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Condy petits oignons;1;0.00;2.00
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Condy cornic./oignons;1;0.00;3.10
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;MClass Toast&Sandwic;1;0.00;2.30
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Agnesi conchiglioni;1;0.90;1.35
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Agnesi tagliatelle;1;0.70;1.05
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Valflora Crème Fraîche;1;0.65;1.95
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Avocat;1;0.00;2.20
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Avocat;1;0.00;2.20
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;MBud Poires;1;0.00;2.50
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Chou-fleur Romanesco;1.051;0.00;5.15
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;MBud Oignons;1;0.00;2.90
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Brocoli;0.865;0.00;4.15
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Chou-Fleur;1.015;0.00;3.35
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Poireaux verts;0.340;0.00;1.60
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Courgettes;0.583;0.00;2.80
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Citrons non traités;1;0.00;0.50
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Champignons blancs;1;0.00;2.20
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Tomates grappes;0.458;0.00;1.65
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Batavia verte;1;0.00;1.80
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Laitue pommée;1;0.00;1.55
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Cabas reutilisable;1;0.00;2.00
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Ciboulette;1;0.00;1.10
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Epinards;1;0.00;3.90
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Poivrons rouges;0.219;0.00;0.70
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Brie Champetre;0.159;0.00;4.60
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Fueuertuefel;0.159;0.00;3.65
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Oeufs CH 10x53g+;1;0.00;4.95
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Valflora Demi-crème;1;0.00;1.35
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Valflora Demi-crème;1;0.00;1.35
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Fromage fondu Gruyère;1;0.00;2.50
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;MClass Mozz. râpe;1;0.00;2.80
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;MClass Mozz. râpe;1;0.00;2.80
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Raccard Nature Maxi;0.786;3.55;14.15
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;MBud Tranche de poulet;0.562;0.00;7.75
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Tortilla chips ranch;1;0.76;3.04
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;MBud Baguette     300g;1;0.00;0.80
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Agnesi spaghetti N. 2;1;0.84;1.26
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Agnesi lagsagne;1;1.36;2.04
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Agnesi fusilli 500g;1;0.84;1.26
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Agnesi cravattine;1;0.84;1.26
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Passata di pomodoro;1;0.00;2.10
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Saucisse grise;0.258;0.00;3.10
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Boudin;0.294;0.60;2.35
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;MBud Jambon;1;0.00;3.90
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;MBud Jambon;1;0.00;3.90
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Tarte flambée Duo;1;0.00;7.50
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Red Bull the white edi;1;0.00;1.70
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;P'tit Louis 12p;1;0.00;4.95
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Ricotta Galbani;1;0.00;2.65
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;MClass Cottage Cheese;1;0.00;1.40
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;MBud fil. saumon 250g;1;0.00;4.80
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;MBud fil. saumon 250g;1;0.00;4.80
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;MBud épinards crème;1;0.00;1.90
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Guacamole mix;1;0.28;1.12
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;MBud épinards crème;1;0.00;1.90
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;MBud MSC bâton.poisson;1;0.00;1.70
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;MBud Asia légumes;1;0.00;3.20
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Electrolux E200S;1;0.00;9.80
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;Arrondi en v. faveur;1;0.00;-0.04
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;CUM10x Pts Couches Mil;1;0;0
+30.01.2021;13:21:18;MMM Marin-Centre;436;3264;CUM20x Pts Poires;1;0;0
+27.01.2021;17:45:20;M Portes-Rouges;002;172;Milette Naturals Maxi;1;0.00;11.85
+27.01.2021;17:45:20;M Portes-Rouges;002;172;MBud Jus d'orange;1;0.00;1.95
+27.01.2021;17:45:20;M Portes-Rouges;002;172;Sac poubelle taxé 35L;1;0.00;20.00
+25.01.2021;10:18:33;MM Hôpital;256;22;Alnatura bouillie;1;0.00;5.95
+25.01.2021;10:18:33;MM Hôpital;256;22;MClass strawberry;1;0.00;2.75
+23.01.2021;15:30:47;M Cadolles;1;7692;Cabas reutilisable;1;0.00;2.00
+23.01.2021;15:30:47;M Cadolles;1;7692;Beurre cuisine 4x250g;1;0.00;11.60
+23.01.2021;15:30:47;M Cadolles;1;7692;Beurre cuisine 4x250g;1;0.00;11.60
+23.01.2021;15:30:47;M Cadolles;1;7692;Maxi fromage râpé;1;0.00;3.65
+23.01.2021;15:30:47;M Cadolles;1;7692;Maxi fromage râpé;1;0.00;3.65
+23.01.2021;15:30:47;M Cadolles;1;7692;Pomm.de t.farineuse;1;0.00;3.05
+23.01.2021;15:30:47;M Cadolles;1;7692;Batavia verte;1;0.00;1.80
+23.01.2021;15:30:47;M Cadolles;1;7692;Valflora Demi-crème;1;0.00;1.35
+23.01.2021;15:30:47;M Cadolles;1;7692;Red Bull 250ml;1;0.00;1.70
+23.01.2021;15:30:47;M Cadolles;1;7692;Maxi fromage râpé;1;0.00;3.65
+23.01.2021;15:30:47;M Cadolles;1;7692;Maxi fromage râpé;1;0.00;3.65
+23.01.2021;15:30:47;M Cadolles;1;7692;Aubergines;0.275;0.00;1.90
+23.01.2021;15:30:47;M Cadolles;1;7692;Red Bull 250ml;1;0.00;1.70
+23.01.2021;15:30:47;M Cadolles;1;7692;MClass galettes riz;1;0.00;1.65
+23.01.2021;15:30:47;M Cadolles;1;7692;M-Budget Bananes;1.071;0.00;1.50
+23.01.2021;15:30:47;M Cadolles;1;7692;Oignons frais blancs;1;0.00;1.40
+23.01.2021;15:30:47;M Cadolles;1;7692;Sirop fraise 75cl;1;0.00;3.45
+23.01.2021;15:30:47;M Cadolles;1;7692;Courgettes;0.542;0.00;2.60
+23.01.2021;15:30:47;M Cadolles;1;7692;Poire Bosc;0.959;0.60;2.35
+23.01.2021;15:30:47;M Cadolles;1;7692;MBud Pommes;1;0.00;3.95
+23.01.2021;15:30:47;M Cadolles;1;7692;Carottes;1;0.00;1.65
+23.01.2021;15:30:47;M Cadolles;1;7692;Fenouil;0.685;0.00;1.85
+23.01.2021;15:30:47;M Cadolles;1;7692;Asco a'petito gibier;1;0.00;1.95
+23.01.2021;15:30:47;M Cadolles;1;7692;Poireau coupe;0.357;0.30;1.25
+23.01.2021;15:30:47;M Cadolles;1;7692;Chou-Fleur;0.712;0.00;2.35
+23.01.2021;15:30:47;M Cadolles;1;7692;Chou chinois;0.659;0.00;1.45
+23.01.2021;15:30:47;M Cadolles;1;7692;Brocoli;0.426;0.00;1.15
+23.01.2021;15:30:47;M Cadolles;1;7692;Merveilles;1;0.00;2.90
+23.01.2021;15:30:47;M Cadolles;1;7692;Coupon Bonus 2x;1;0;0
+16.01.2021;12:20:16;MM Hôpital;255;45;Nestlé Beba Optopro 2;1;0.00;25.00
+16.01.2021;12:20:16;MM Hôpital;255;45;Milette Naturals Maxi;1;0.00;11.85
+16.01.2021;12:20:16;MM Hôpital;255;45;Galactina Plasmon;1;0.00;3.90
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;Oranges blondes;1;0.75;1.00
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;Oranges blondes;1;0.75;1.00
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;XL toast american;1;0.00;1.90
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;Oignons;1;0.00;2.00
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;Poires Conférence;0.645;0.00;2.00
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;Pommes Gala;1.500;0.00;4.95
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;Chou-fleur Romanesco;1.000;0.00;4.90
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;Patates douces;0.795;0.00;1.75
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;Poireaux verts;0.274;0.00;1.15
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;Brocoli;0.659;0.00;1.45
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;Chou-Fleur;0.545;0.00;1.50
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;M-Drink UHT Brik 12x1l;1;0.00;11.50
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;Lattesso Espresso;1;0.00;2.35
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;Starbucks Vanilla;1;0.00;2.25
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;Oeufs CH 10x53g+;1;0.00;4.95
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;Fromage fondu Gruyère;1;0.00;2.50
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;Feuille chêne verte;1;0.00;1.80
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;Laitue pommée;1;0.00;1.55
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;Tomates morce. 6x280g;1;0.00;4.80
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;MBud Jambon;1;0.00;3.90
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;MClass copeaux de bois;1;0.00;3.60
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;MClass aliment lapins;1;0.00;3.35
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;Foin 1kg;1;0.00;2.20
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;HM Sel régénération;1;0.00;1.30
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;HM Sel régénération;1;0.00;1.30
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;Migros Plus rincage ec;1;0.00;3.20
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;MClass all in 1 Tabs;1;0.00;4.50
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;MClass all in 1 Tabs;1;0.00;4.50
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;Micasa Turner 50x70cm;1;0.00;22.80
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;HF 2.45 au lieu 4.90;1;0.00;2.45
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;MBud vitamine C;1;0.00;0.95
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;MBud vitamine C;1;0.00;0.95
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;MBud multi-vitamin;1;0.00;0.95
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;MBud multi-vitamin;1;0.00;0.95
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;Red Bull the white edi;1;0.00;1.70
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;Alnatura bouillie;1;0.00;5.95
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;Milette Naturals Maxi;1;0.00;11.85
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;Milette Maxi;1;0.00;7.70
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;Milette protege;1;0.00;2.95
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;CUMULUS BON 10.-;0;0;-10.00
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;CUMULUS BON 5.-;0;0;-5.00
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;CUMULUS BON 5.-;0;0;-5.00
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;CUMULUS BON 5.-;0;0;-5.00
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;CUMULUS BON 5.-;0;0;-5.00
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;CUMULUS BON 5.-;0;0;-5.00
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;CUMULUS BON 5.-;0;0;-5.00
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;CUMULUS BON 5.-;0;0;-5.00
+05.01.2021;12:50:27;MMM Marin-Centre;437;5227;CUM20x Pts Pains toast;1;0;0
